@@ -1,0 +1,61 @@
+2026-04-13 13:50:34|INFO|RESET_WORKING_SOURCES||COPY_WORKING_FILES|5|Werkkopieën van bronbestanden aangemaakt
+2026-04-13 13:50:34|INFO|RESET_DWH||DELETE_OLD_DWH|1|Oude database verwijderd: BikeToDrive_DWH.db
+2026-04-13 13:50:34|INFO|RESET_DWH||CREATE_NEW_DWH|1|Nieuw DWH en schema aangemaakt
+2026-04-13 13:50:38|INFO|RUN_ETL||START||ETL gestart met load_date=2026-04-08
+2026-04-13 13:50:38|INFO|EXTRACT|Klant|READ_SOURCE_TABLE|20|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Klant|READ_SOURCE_TABLE|25|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Filiaal|READ_SOURCE_TABLE|4|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Filiaal|READ_SOURCE_TABLE|4|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Filiaal|READ_SOURCE_TABLE|5|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|EXTRACT|Monteur|READ_SOURCE_TABLE|10|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Monteur|READ_SOURCE_TABLE|10|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Monteur|READ_SOURCE_TABLE|15|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|EXTRACT|Leverancier|READ_SOURCE_TABLE|5|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Leverancier|READ_SOURCE_TABLE|5|Bronbestand: BikeToDrive_4_Accessoire_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fabrikant|READ_SOURCE_TABLE|10|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fabrikant|READ_SOURCE_TABLE|11|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fabrikant|READ_SOURCE_TABLE|10|Bronbestand: BikeToDrive_5_Fiets_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire|READ_SOURCE_TABLE|10|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire|READ_SOURCE_TABLE|13|Bronbestand: BikeToDrive_4_Accessoire_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets|READ_SOURCE_TABLE|75|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets|READ_SOURCE_TABLE|30|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets|READ_SOURCE_TABLE|75|Bronbestand: BikeToDrive_5_Fiets_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire_Verkoop|READ_SOURCE_TABLE|100|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets_Verkoop|READ_SOURCE_TABLE|150|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Onderhoud|READ_SOURCE_TABLE|50|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire_Inkoop|READ_SOURCE_TABLE|50|Bronbestand: BikeToDrive_4_Accessoire_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets_Inkoop|READ_SOURCE_TABLE|100|Bronbestand: BikeToDrive_5_Fiets_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire_Verkoop|READ_SOURCE_TABLE|100|Bronbestand: BikeToDrive_1_Accessoireverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets_Verkoop|READ_SOURCE_TABLE|150|Bronbestand: BikeToDrive_2_Fietsverkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Accessoire_Inkoop|READ_SOURCE_TABLE|50|Bronbestand: BikeToDrive_4_Accessoire_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Fiets_Inkoop|READ_SOURCE_TABLE|100|Bronbestand: BikeToDrive_5_Fiets_Inkoop.db
+2026-04-13 13:50:38|INFO|EXTRACT|Onderhoud|READ_SOURCE_TABLE|50|Bronbestand: BikeToDrive_3_Onderhoud.db
+2026-04-13 13:50:38|INFO|STAGING|dim_date|BUILD_STAGING|201|Datumdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_filiaal|BUILD_STAGING|5|Filiaaldimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_klant|BUILD_STAGING|25|Klantdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_monteur|BUILD_STAGING|15|Monteurdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_leverancier|BUILD_STAGING|5|Leveranciersdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_fabrikant|BUILD_STAGING|11|Fabrikantdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|dim_product|BUILD_STAGING|203|Productdimensie opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|fact_verkoop|BUILD_STAGING|250|Verkoopfeiten opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|fact_inkoop|BUILD_STAGING|150|Inkoopfeiten opgebouwd
+2026-04-13 13:50:38|INFO|STAGING|fact_onderhoud|BUILD_STAGING|50|Onderhoudsfeiten opgebouwd
+2026-04-13 13:50:38|INFO|LOAD_DIM|dim_date|INSERT|201|Nieuwe datums toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_filiaal|INSERT|5|Nieuwe records toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_filiaal|UPDATE|0|Bestaande records overschreven
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_klant|INSERT_NEW|25|Nieuwe business keys toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_klant|VERSIONED|0|Gewijzigde records gehistoriseerd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_klant|UNCHANGED|0|Geen wijziging
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_monteur|INSERT_NEW|15|Nieuwe business keys toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_monteur|VERSIONED|0|Gewijzigde records gehistoriseerd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD2|dim_monteur|UNCHANGED|0|Geen wijziging
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_leverancier|INSERT|5|Nieuwe records toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_leverancier|UPDATE|0|Bestaande records overschreven
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_fabrikant|INSERT|11|Nieuwe records toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_fabrikant|UPDATE|0|Bestaande records overschreven
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_product|INSERT|203|Nieuwe records toegevoegd
+2026-04-13 13:50:38|INFO|LOAD_DIM_SCD1|dim_product|UPDATE|0|Bestaande records overschreven
+2026-04-13 13:50:38|INFO|LOAD_FACT|fact_verkoop|INSERT|250|Overgeslagen=0
+2026-04-13 13:50:38|INFO|LOAD_FACT|fact_inkoop|INSERT|150|Overgeslagen=0
+2026-04-13 13:50:38|INFO|LOAD_FACT|fact_onderhoud|INSERT|50|Overgeslagen=0
+2026-04-13 13:50:38|INFO|RUN_ETL||END||ETL succesvol afgerond
