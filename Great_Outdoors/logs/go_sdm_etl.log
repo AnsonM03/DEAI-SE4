@@ -1,0 +1,74 @@
+2026-05-13 13:50:02|INFO|FILE_CHECK|crm|FOUND_SQLITE||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/CRM-data.sqlite
+2026-05-13 13:50:02|INFO|FILE_CHECK|sales|FOUND_SQLITE||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_SALES-data.sqlite
+2026-05-13 13:50:02|INFO|FILE_CHECK|staff|FOUND_SQLITE||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_STAFF-data.sqlite
+2026-05-13 13:50:02|INFO|FILE_CHECK|inventory_levels|FOUND_CSV||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/INVENTORY_LEVELS-data.csv
+2026-05-13 13:50:02|INFO|FILE_CHECK|product_forecast|FOUND_CSV||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/PRODUCT_FORECAST-data.csv
+2026-05-13 13:50:02|INFO|FILE_CHECK|sales_target|FOUND_CSV||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/SALES_TARGET-data.csv
+2026-05-13 13:50:02|INFO|RESET_SDM|GO_SDM|CREATE_EMPTY_DB|1|/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_SDM.db
+2026-05-13 13:50:02|INFO|RUN_SDM_PIPELINE||START||Start laden bronnen naar SDM
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_age_group|REPLACE_TABLE|6|source=CRM-data.sqlite; source_table=age_group
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_crm_country|REPLACE_TABLE|19|source=CRM-data.sqlite; source_table=crm_country
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer|REPLACE_TABLE|109|source=CRM-data.sqlite; source_table=customer
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer_contact|REPLACE_TABLE|391|source=CRM-data.sqlite; source_table=customer_contact
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer_headquarters|REPLACE_TABLE|414|source=CRM-data.sqlite; source_table=customer_headquarters
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer_segment|REPLACE_TABLE|12|source=CRM-data.sqlite; source_table=customer_segment
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer_store|REPLACE_TABLE|361|source=CRM-data.sqlite; source_table=customer_store
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_customer_type|REPLACE_TABLE|8|source=CRM-data.sqlite; source_table=customer_type
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_sales_demographic|REPLACE_TABLE|2484|source=CRM-data.sqlite; source_table=sales_demographic
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|crm_sales_territory|REPLACE_TABLE|5|source=CRM-data.sqlite; source_table=sales_territory
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_country|REPLACE_TABLE|18|source=GO_SALES-data.sqlite; source_table=country
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_order_details|REPLACE_TABLE|40990|source=GO_SALES-data.sqlite; source_table=order_details
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_order_header|REPLACE_TABLE|4968|source=GO_SALES-data.sqlite; source_table=order_header
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_order_method|REPLACE_TABLE|7|source=GO_SALES-data.sqlite; source_table=order_method
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_product|REPLACE_TABLE|115|source=GO_SALES-data.sqlite; source_table=product
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_product_line|REPLACE_TABLE|5|source=GO_SALES-data.sqlite; source_table=product_line
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_product_type|REPLACE_TABLE|21|source=GO_SALES-data.sqlite; source_table=product_type
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_retailer_site|REPLACE_TABLE|391|source=GO_SALES-data.sqlite; source_table=retailer_site
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_return_reason|REPLACE_TABLE|5|source=GO_SALES-data.sqlite; source_table=return_reason
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_returned_item|REPLACE_TABLE|690|source=GO_SALES-data.sqlite; source_table=returned_item
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_sales_branch|REPLACE_TABLE|25|source=GO_SALES-data.sqlite; source_table=sales_branch
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|sales_sales_staff|REPLACE_TABLE|96|source=GO_SALES-data.sqlite; source_table=sales_staff
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_course|REPLACE_TABLE|9|source=GO_STAFF-data.sqlite; source_table=course
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_sales_office|REPLACE_TABLE|28|source=GO_STAFF-data.sqlite; source_table=sales_office
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_sales_representative|REPLACE_TABLE|102|source=GO_STAFF-data.sqlite; source_table=sales_representative
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_satisfaction|REPLACE_TABLE|301|source=GO_STAFF-data.sqlite; source_table=satisfaction
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_satisfaction_type|REPLACE_TABLE|5|source=GO_STAFF-data.sqlite; source_table=satisfaction_type
+2026-05-13 13:50:02|INFO|LOAD_SQLITE_TO_SDM|staff_training|REPLACE_TABLE|402|source=GO_STAFF-data.sqlite; source_table=training
+2026-05-13 13:50:02|INFO|EXTRACT_CSV|INVENTORY_LEVELS-data.csv|READ_CSV|3888|encoding=utf-8
+2026-05-13 13:50:02|INFO|LOAD_CSV_TO_SDM|csv_inventory_levels|REPLACE_TABLE|3888|source=INVENTORY_LEVELS-data.csv
+2026-05-13 13:50:02|INFO|EXTRACT_CSV|PRODUCT_FORECAST-data.csv|READ_CSV|3872|encoding=utf-8
+2026-05-13 13:50:02|INFO|LOAD_CSV_TO_SDM|csv_product_forecast|REPLACE_TABLE|3872|source=PRODUCT_FORECAST-data.csv
+2026-05-13 13:50:02|INFO|EXTRACT_CSV|SALES_TARGET-data.csv|READ_CSV|39530|encoding=cp1252
+2026-05-13 13:50:02|INFO|LOAD_CSV_TO_SDM|csv_sales_target|REPLACE_TABLE|39530|source=SALES_TARGET-data.csv
+2026-05-13 13:50:02|INFO|RUN_SDM_PIPELINE||END|99277|Alle bronnen naar SDM geladen
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_age_group|COUNT_ROWS|6|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_crm_country|COUNT_ROWS|19|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer|COUNT_ROWS|109|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer_contact|COUNT_ROWS|391|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer_headquarters|COUNT_ROWS|414|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer_segment|COUNT_ROWS|12|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer_store|COUNT_ROWS|361|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_customer_type|COUNT_ROWS|8|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_sales_demographic|COUNT_ROWS|2484|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|crm_sales_territory|COUNT_ROWS|5|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|csv_inventory_levels|COUNT_ROWS|3888|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|csv_product_forecast|COUNT_ROWS|3872|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|csv_sales_target|COUNT_ROWS|39530|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_country|COUNT_ROWS|18|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_order_details|COUNT_ROWS|40990|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_order_header|COUNT_ROWS|4968|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_order_method|COUNT_ROWS|7|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_product|COUNT_ROWS|115|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_product_line|COUNT_ROWS|5|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_product_type|COUNT_ROWS|21|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_retailer_site|COUNT_ROWS|391|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_return_reason|COUNT_ROWS|5|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_returned_item|COUNT_ROWS|690|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_sales_branch|COUNT_ROWS|25|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|sales_sales_staff|COUNT_ROWS|96|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_course|COUNT_ROWS|9|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_sales_office|COUNT_ROWS|28|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_sales_representative|COUNT_ROWS|102|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_satisfaction|COUNT_ROWS|301|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_satisfaction_type|COUNT_ROWS|5|Rijtelling in SDM
+2026-05-13 13:50:20|INFO|ROW_COUNT|staff_training|COUNT_ROWS|402|Rijtelling in SDM

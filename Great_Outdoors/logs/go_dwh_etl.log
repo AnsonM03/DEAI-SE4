@@ -1,0 +1,61 @@
+2026-05-14 20:57:01|INFO|FILE_CHECK|CRM-data.sqlite|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/CRM-data.sqlite
+2026-05-14 20:57:01|INFO|FILE_CHECK|GO_SALES-data.sqlite|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|FILE_CHECK|GO_STAFF-data.sqlite|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_STAFF-data.sqlite
+2026-05-14 20:57:01|INFO|FILE_CHECK|INVENTORY_LEVELS-data.csv|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/INVENTORY_LEVELS-data.csv
+2026-05-14 20:57:01|INFO|FILE_CHECK|PRODUCT_FORECAST-data.csv|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/PRODUCT_FORECAST-data.csv
+2026-05-14 20:57:01|INFO|FILE_CHECK|SALES_TARGET-data.csv|FOUND||/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/SALES_TARGET-data.csv
+2026-05-14 20:57:01|INFO|RUN_DWH_PIPELINE||START||Start DWH ETL
+2026-05-14 20:57:01|INFO|RESET_DWH|GO_DWH|DELETE_EXISTING_DB|1|/Users/cmok/Documents/GitHub/DEAI-SE4/Great_Outdoors/GO_DWH.db
+2026-05-14 20:57:01|INFO|RESET_DWH|GO_DWH|CREATE_SCHEMA|1|DWH-schema aangemaakt
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|order_header|READ_TABLE|4968|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|order_details|READ_TABLE|40990|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|product|READ_TABLE|115|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|product_type|READ_TABLE|21|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|product_line|READ_TABLE|5|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|retailer_site|READ_TABLE|391|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|country|READ_TABLE|18|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|order_method|READ_TABLE|7|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|sales_staff|READ_TABLE|96|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|sales_branch|READ_TABLE|25|GO_SALES-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|customer|READ_TABLE|109|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|customer_type|READ_TABLE|8|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|customer_store|READ_TABLE|361|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|customer_headquarters|READ_TABLE|414|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|customer_segment|READ_TABLE|12|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|crm_country|READ_TABLE|19|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_SQL|sales_territory|READ_TABLE|5|CRM-data.sqlite
+2026-05-14 20:57:01|INFO|EXTRACT_CSV|INVENTORY_LEVELS-data.csv|READ_CSV|3888|encoding=utf-8
+2026-05-14 20:57:01|INFO|EXTRACT_CSV|PRODUCT_FORECAST-data.csv|READ_CSV|3872|encoding=utf-8
+2026-05-14 20:57:01|INFO|EXTRACT_CSV|SALES_TARGET-data.csv|READ_CSV|39530|encoding=cp1252
+2026-05-14 20:57:02|INFO|STAGING|dim_date|BUILD|929|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|dim_product|BUILD|115|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|dim_customer|BUILD|391|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|dim_region|BUILD|237|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|dim_sales_staff|BUILD|96|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|dim_order_method|BUILD|7|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|fact_order_sales|BUILD|40990|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|fact_sales_target|BUILD|39530|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|fact_inventory_level|BUILD|3888|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|STAGING|fact_product_forecast|BUILD|3872|Staging dataframe opgebouwd
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_date|INSERT|929|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_product|INSERT|116|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_customer|INSERT|391|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_region|INSERT|237|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_sales_staff|INSERT|96|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|dim_order_method|INSERT|7|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|fact_order_sales|INSERT|40990|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|fact_sales_target|INSERT|39530|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|fact_inventory_level|INSERT|3888|Data geladen
+2026-05-14 20:57:02|INFO|LOAD_TABLE|fact_product_forecast|INSERT|3872|Data geladen
+2026-05-14 20:57:02|INFO|CREATE_VIEWS|analysis_views|CREATE|5|Analyseviews aangemaakt
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_date|COUNT_ROWS|929|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_product|COUNT_ROWS|116|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_customer|COUNT_ROWS|391|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_region|COUNT_ROWS|237|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_sales_staff|COUNT_ROWS|96|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|dim_order_method|COUNT_ROWS|7|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|fact_order_sales|COUNT_ROWS|40990|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|fact_sales_target|COUNT_ROWS|39530|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|fact_inventory_level|COUNT_ROWS|3888|DWH rijtelling
+2026-05-14 20:57:02|INFO|ROW_COUNT|fact_product_forecast|COUNT_ROWS|3872|DWH rijtelling
+2026-05-14 20:57:02|INFO|RUN_DWH_PIPELINE||END||DWH ETL afgerond
