@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1580 1070" font-family="Arial,Helvetica,sans-serif" role="img">
+<title>ETL-schema per sterschema-klasse</title>
+<rect width="1580" height="1070" fill="white"/>
+<text x="40" y="40" font-size="22" font-weight="bold" fill="rgb(20,20,20)">ETL-schema – datastroom per sterschema-klasse (knelpunt 2 &amp; 4)</text>
+<rect x="40" y="116" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="137" font-size="13" fill="rgb(20,20,20)">SDM.sales_return_reason</text>
+<rect x="470" y="87" width="470" height="90" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="107" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="130" font-size="13" fill="rgb(20,20,20)">Afleiden: reason_category</text>
+<text x="482" y="152" font-size="13" fill="rgb(20,20,20)">SCD-type 2 (valid_from/to, is_current, version)</text>
+<rect x="1010" y="97" width="330" height="70" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1010" y="97" width="330" height="30" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1018" y="118" font-size="16" font-weight="bold" fill="rgb(20,20,20)">dim_return_reason</text>
+<text x="1018" y="151" font-size="13" fill="rgb(20,20,20)">1 rij per retourreden</text>
+<line x1="340" y1="132" x2="470" y2="132" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,132 461,127 461,137" fill="rgb(90,90,90)"/>
+<line x1="940" y1="132" x2="1010" y2="132" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,132 1001,127 1001,137" fill="rgb(90,90,90)"/>
+<rect x="40" y="251" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="272" font-size="13" fill="rgb(20,20,20)">SDM.staff_course</text>
+<rect x="470" y="211" width="470" height="112" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="231" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="254" font-size="13" fill="rgb(20,20,20)">Afleiden: course_category</text>
+<text x="482" y="276" font-size="13" fill="rgb(20,20,20)">Afleiden: standard_cost (aanname)</text>
+<text x="482" y="298" font-size="13" fill="rgb(20,20,20)">SCD-type 2</text>
+<rect x="1010" y="232" width="330" height="70" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1010" y="232" width="330" height="30" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1018" y="253" font-size="16" font-weight="bold" fill="rgb(20,20,20)">dim_course</text>
+<text x="1018" y="286" font-size="13" fill="rgb(20,20,20)">1 rij per cursus(versie)</text>
+<line x1="340" y1="267" x2="470" y2="267" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,267 461,262 461,272" fill="rgb(90,90,90)"/>
+<line x1="940" y1="267" x2="1010" y2="267" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,267 1001,262 1001,272" fill="rgb(90,90,90)"/>
+<rect x="40" y="386" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="407" font-size="13" fill="rgb(20,20,20)">SDM.staff_satisfaction_type</text>
+<rect x="470" y="357" width="470" height="90" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="377" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="400" font-size="13" fill="rgb(20,20,20)">Afleiden: satisfaction_score (1-5)</text>
+<text x="482" y="422" font-size="13" fill="rgb(20,20,20)">SCD-type 1 (overschrijven)</text>
+<rect x="1010" y="367" width="330" height="70" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1010" y="367" width="330" height="30" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1018" y="388" font-size="16" font-weight="bold" fill="rgb(20,20,20)">dim_satisfaction_type</text>
+<text x="1018" y="421" font-size="13" fill="rgb(20,20,20)">1 rij per tevredenheidstype</text>
+<line x1="340" y1="402" x2="470" y2="402" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,402 461,397 461,407" fill="rgb(90,90,90)"/>
+<line x1="940" y1="402" x2="1010" y2="402" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,402 1001,397 1001,407" fill="rgb(90,90,90)"/>
+<rect x="40" y="483" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="504" font-size="13" fill="rgb(20,20,20)">SDM.sales_returned_item</text>
+<rect x="40" y="523" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="544" font-size="13" fill="rgb(20,20,20)">DWH.fact_order_sales</text>
+<rect x="40" y="563" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="584" font-size="13" fill="rgb(20,20,20)">DWH.dim_return_reason</text>
+<rect x="40" y="603" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="624" font-size="13" fill="rgb(20,20,20)">DWH.dim_date</text>
+<rect x="470" y="481" width="470" height="156" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="501" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="524" font-size="13" fill="rgb(20,20,20)">RETURN_DATE -&gt; date_key (YYYYMMDD)</text>
+<text x="482" y="546" font-size="13" fill="rgb(20,20,20)">Ontbrekende datums aan dim_date toevoegen</text>
+<text x="482" y="568" font-size="13" fill="rgb(20,20,20)">Lookup keys via order_detail_bk (uit fact_order_sales)</text>
+<text x="482" y="590" font-size="13" fill="rgb(20,20,20)">Afleiden: return_value, gross_loss</text>
+<text x="482" y="612" font-size="13" fill="rgb(20,20,20)">Laadstrategie: full reload</text>
+<rect x="1010" y="524" width="330" height="70" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="1010" y="524" width="330" height="30" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="1018" y="545" font-size="16" font-weight="bold" fill="rgb(20,20,20)">fact_returns</text>
+<text x="1018" y="578" font-size="13" font-weight="bold" fill="rgb(20,20,20)">GRAIN: 1 rij per retour (RETURN_CODE)</text>
+<line x1="340" y1="559" x2="470" y2="559" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,559 461,554 461,564" fill="rgb(90,90,90)"/>
+<line x1="940" y1="559" x2="1010" y2="559" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,559 1001,554 1001,564" fill="rgb(90,90,90)"/>
+<rect x="40" y="682" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="703" font-size="13" fill="rgb(20,20,20)">SDM.staff_training</text>
+<rect x="40" y="722" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="743" font-size="13" fill="rgb(20,20,20)">DWH.dim_sales_staff</text>
+<rect x="40" y="762" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="783" font-size="13" fill="rgb(20,20,20)">DWH.dim_course</text>
+<rect x="470" y="671" width="470" height="134" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="691" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="714" font-size="13" fill="rgb(20,20,20)">Lookup sales_staff_key (rep = sales_staff)</text>
+<text x="482" y="736" font-size="13" fill="rgb(20,20,20)">Lookup course_key + course_cost</text>
+<text x="482" y="758" font-size="13" fill="rgb(20,20,20)">year_num = degenererende dimensie (jaar)</text>
+<text x="482" y="780" font-size="13" fill="rgb(20,20,20)">Laadstrategie: full reload</text>
+<rect x="1010" y="703" width="330" height="70" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="1010" y="703" width="330" height="30" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="1018" y="724" font-size="16" font-weight="bold" fill="rgb(20,20,20)">fact_training</text>
+<text x="1018" y="757" font-size="13" font-weight="bold" fill="rgb(20,20,20)">GRAIN: medewerker x cursus x jaar</text>
+<line x1="340" y1="738" x2="470" y2="738" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,738 461,733 461,743" fill="rgb(90,90,90)"/>
+<line x1="940" y1="738" x2="1010" y2="738" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,738 1001,733 1001,743" fill="rgb(90,90,90)"/>
+<rect x="40" y="850" width="300" height="32" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="48" y="871" font-size="13" fill="rgb(20,20,20)">SDM.staff_satisfaction</text>
+<rect x="40" y="890" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="911" font-size="13" fill="rgb(20,20,20)">DWH.dim_sales_staff</text>
+<rect x="40" y="930" width="300" height="32" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="48" y="951" font-size="13" fill="rgb(20,20,20)">DWH.dim_satisfaction_type</text>
+<rect x="470" y="839" width="470" height="134" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="478" y="859" font-size="13" font-weight="bold" fill="rgb(20,20,20)">Transform / load</text>
+<text x="482" y="882" font-size="13" fill="rgb(20,20,20)">Lookup sales_staff_key</text>
+<text x="482" y="904" font-size="13" fill="rgb(20,20,20)">Lookup satisfaction_type_key + score</text>
+<text x="482" y="926" font-size="13" fill="rgb(20,20,20)">year_num = degenererende dimensie (jaar)</text>
+<text x="482" y="948" font-size="13" fill="rgb(20,20,20)">Laadstrategie: full reload</text>
+<rect x="1010" y="871" width="330" height="70" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="1010" y="871" width="330" height="30" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="1018" y="892" font-size="16" font-weight="bold" fill="rgb(20,20,20)">fact_staff_satisfaction</text>
+<text x="1018" y="925" font-size="13" font-weight="bold" fill="rgb(20,20,20)">GRAIN: medewerker x jaar</text>
+<line x1="340" y1="906" x2="470" y2="906" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="470,906 461,901 461,911" fill="rgb(90,90,90)"/>
+<line x1="940" y1="906" x2="1010" y2="906" stroke="rgb(90,90,90)" stroke-width="2"/>
+<polygon points="1010,906 1001,901 1001,911" fill="rgb(90,90,90)"/>
+<rect x="40" y="1012" width="24" height="16" fill="rgb(225,227,230)" stroke="rgb(120,124,130)" stroke-width="2"/>
+<text x="70" y="1025" font-size="13" fill="rgb(20,20,20)">Bron (SDM)</text>
+<rect x="220" y="1012" width="24" height="16" fill="rgb(187,222,251)" stroke="rgb(66,133,244)" stroke-width="2"/>
+<text x="250" y="1025" font-size="13" fill="rgb(20,20,20)">Bron (bestaand DWH)</text>
+<rect x="440" y="1012" width="24" height="16" fill="rgb(255,243,205)" stroke="rgb(214,158,46)" stroke-width="2"/>
+<text x="470" y="1025" font-size="13" fill="rgb(20,20,20)">Transformatie</text>
+<rect x="620" y="1012" width="24" height="16" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="650" y="1025" font-size="13" fill="rgb(20,20,20)">Doel: dimensie</text>
+<rect x="800" y="1012" width="24" height="16" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="830" y="1025" font-size="13" fill="rgb(20,20,20)">Doel: feit</text>
+<text x="40" y="1050" font-size="13" fill="rgb(20,20,20)">Degenererende dimensie = jaar wordt als kolom in het feit opgeslagen (granulariteitsverschil dag vs jaar).</text>
+</svg>

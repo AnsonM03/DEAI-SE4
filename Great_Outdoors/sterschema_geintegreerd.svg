@@ -1,0 +1,521 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1790 1598" font-family="Arial,Helvetica,sans-serif" role="img">
+<title>Geintegreerd sterschema</title>
+<rect width="1790" height="1598" fill="white"/>
+<text x="40" y="40" font-size="22" font-weight="bold" fill="rgb(20,20,20)">Ge&#239;ntegreerd sterschema &#8211; bestaand project + nieuwe knelpunten (2 Retouren &amp; 4 Cursussen)</text>
+<line x1="740" y1="248" x2="610" y2="193" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="193" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="248" x2="610" y2="467" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="467" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="248" x2="610" y2="741" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="741" r="4" fill="rgb(120,124,130)"/>
+<line x1="990" y1="248" x2="1130" y2="215" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="1130" cy="215" r="4" fill="rgb(120,124,130)"/>
+<line x1="990" y1="248" x2="1130" y2="489" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="1130" cy="489" r="4" fill="rgb(120,124,130)"/>
+<line x1="990" y1="248" x2="1130" y2="686" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="1130" cy="686" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="533" x2="610" y2="467" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="467" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="533" x2="610" y2="193" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="193" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="741" x2="610" y2="467" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="467" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="741" x2="610" y2="741" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="741" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="741" x2="610" y2="193" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="610" cy="193" r="4" fill="rgb(120,124,130)"/>
+<line x1="740" y1="993" x2="610" y2="193" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="610" cy="193" r="4" fill="rgb(217,48,122)"/>
+<line x1="740" y1="993" x2="610" y2="467" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="610" cy="467" r="4" fill="rgb(217,48,122)"/>
+<line x1="740" y1="993" x2="610" y2="741" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="610" cy="741" r="4" fill="rgb(217,48,122)"/>
+<line x1="990" y1="993" x2="1130" y2="215" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="1130" cy="215" r="4" fill="rgb(217,48,122)"/>
+<line x1="990" y1="993" x2="1130" y2="489" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="1130" cy="489" r="4" fill="rgb(217,48,122)"/>
+<line x1="990" y1="993" x2="1130" y2="872" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="1130" cy="872" r="4" fill="rgb(217,48,122)"/>
+<line x1="740" y1="1234" x2="610" y2="741" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="610" cy="741" r="4" fill="rgb(217,48,122)"/>
+<line x1="990" y1="1234" x2="1130" y2="1113" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="1130" cy="1113" r="4" fill="rgb(217,48,122)"/>
+<line x1="740" y1="1409" x2="610" y2="741" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="610" cy="741" r="4" fill="rgb(217,48,122)"/>
+<line x1="990" y1="1409" x2="1130" y2="1310" stroke="rgb(217,48,122)" stroke-width="2"/>
+<circle cx="1130" cy="1310" r="4" fill="rgb(217,48,122)"/>
+<line x1="360" y1="467" x2="290" y2="127" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="290" cy="127" r="4" fill="rgb(120,124,130)"/>
+<line x1="360" y1="467" x2="290" y2="247" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="290" cy="247" r="4" fill="rgb(120,124,130)"/>
+<line x1="360" y1="741" x2="290" y2="389" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="290" cy="389" r="4" fill="rgb(120,124,130)"/>
+<line x1="1380" y1="215" x2="1500" y2="138" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="1500" cy="138" r="4" fill="rgb(120,124,130)"/>
+<line x1="1380" y1="215" x2="1500" y2="269" stroke="rgb(120,124,130)" stroke-width="2"/>
+<circle cx="1500" cy="269" r="4" fill="rgb(120,124,130)"/>
+<rect x="40" y="80" width="250" height="94" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="40" y="80" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="48" y="99" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_PRODUCT_TYPE</text>
+<text x="48" y="124" font-size="12" fill="rgb(20,20,20)">product_type_sk</text>
+<text x="250" y="124" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="204" y="124" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="42" y="130" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="48" y="146" font-size="12" fill="rgb(20,20,20)">product_type_code</text>
+<text x="250" y="146" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="48" y="168" font-size="12" fill="rgb(20,20,20)">product_type_en</text>
+<text x="250" y="168" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="40" y="200" width="250" height="94" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="40" y="200" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="48" y="219" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_PRODUCT_LINE</text>
+<text x="48" y="244" font-size="12" fill="rgb(20,20,20)">product_line_sk</text>
+<text x="250" y="244" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="204" y="244" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="42" y="250" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="48" y="266" font-size="12" fill="rgb(20,20,20)">product_line_code</text>
+<text x="250" y="266" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="48" y="288" font-size="12" fill="rgb(20,20,20)">product_line_en</text>
+<text x="250" y="288" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="40" y="320" width="250" height="138" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="40" y="320" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="48" y="339" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_BRANCH</text>
+<text x="48" y="364" font-size="12" fill="rgb(20,20,20)">brnch_sk</text>
+<text x="250" y="364" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="204" y="364" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="42" y="370" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="48" y="386" font-size="12" fill="rgb(20,20,20)">brnch_code</text>
+<text x="250" y="386" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="48" y="408" font-size="12" fill="rgb(20,20,20)">brnch_city</text>
+<text x="250" y="408" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="42" y="414" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="48" y="430" font-size="12" fill="rgb(20,20,20)">brnch_region</text>
+<text x="250" y="430" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="48" y="452" font-size="12" fill="rgb(20,20,20)">country_code</text>
+<text x="250" y="452" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="360" y="80" width="250" height="226" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="360" y="80" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="368" y="99" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_DATE</text>
+<text x="368" y="124" font-size="12" fill="rgb(20,20,20)">dim_date_sk</text>
+<text x="570" y="124" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="124" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="362" y="130" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="146" font-size="12" fill="rgb(20,20,20)">full_date</text>
+<text x="570" y="146" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="368" y="168" font-size="12" fill="rgb(20,20,20)">day</text>
+<text x="570" y="168" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="362" y="174" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="190" font-size="12" fill="rgb(20,20,20)">month</text>
+<text x="570" y="190" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="368" y="212" font-size="12" fill="rgb(20,20,20)">year</text>
+<text x="570" y="212" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="362" y="218" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="234" font-size="12" fill="rgb(20,20,20)">quarter</text>
+<text x="570" y="234" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="368" y="256" font-size="12" fill="rgb(20,20,20)">season</text>
+<text x="570" y="256" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="362" y="262" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="278" font-size="12" fill="rgb(20,20,20)">is_weekend</text>
+<text x="570" y="278" font-size="12" fill="rgb(120,120,120)">bool</text>
+<text x="368" y="300" font-size="12" fill="rgb(20,20,20)">day_of_week</text>
+<text x="570" y="300" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="360" y="332" width="250" height="270" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="360" y="332" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="368" y="351" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_PRODUCT</text>
+<text x="368" y="376" font-size="12" fill="rgb(20,20,20)">dim_product_sk</text>
+<text x="570" y="376" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="376" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="362" y="382" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="398" font-size="12" fill="rgb(20,20,20)">product_type_sk</text>
+<text x="570" y="398" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="398" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="368" y="420" font-size="12" fill="rgb(20,20,20)">product_line_sk</text>
+<text x="570" y="420" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="420" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="362" y="426" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="442" font-size="12" fill="rgb(20,20,20)">product_number</text>
+<text x="570" y="442" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="368" y="464" font-size="12" fill="rgb(20,20,20)">product_name</text>
+<text x="570" y="464" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="362" y="470" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="486" font-size="12" fill="rgb(20,20,20)">production_cost</text>
+<text x="570" y="486" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="368" y="508" font-size="12" fill="rgb(20,20,20)">margin</text>
+<text x="570" y="508" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="362" y="514" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="530" font-size="12" fill="rgb(20,20,20)">price_range</text>
+<text x="570" y="530" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="368" y="552" font-size="12" fill="rgb(20,20,20)">valid_from</text>
+<text x="570" y="552" font-size="12" fill="rgb(120,120,120)">date</text>
+<rect x="362" y="558" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="574" font-size="12" fill="rgb(20,20,20)">valid_to</text>
+<text x="570" y="574" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="368" y="596" font-size="12" fill="rgb(20,20,20)">is_current</text>
+<text x="570" y="596" font-size="12" fill="rgb(120,120,120)">bool</text>
+<rect x="360" y="628" width="250" height="226" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="360" y="628" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="368" y="647" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_STAFF</text>
+<text x="368" y="672" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="570" y="672" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="672" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="362" y="678" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="694" font-size="12" fill="rgb(20,20,20)">branch_sk</text>
+<text x="570" y="694" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="524" y="694" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="368" y="716" font-size="12" fill="rgb(20,20,20)">sales_staff_code</text>
+<text x="570" y="716" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="362" y="722" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="738" font-size="12" fill="rgb(20,20,20)">full_name</text>
+<text x="570" y="738" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="368" y="760" font-size="12" fill="rgb(20,20,20)">position_en</text>
+<text x="570" y="760" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="362" y="766" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="782" font-size="12" fill="rgb(20,20,20)">date_hired</text>
+<text x="570" y="782" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="368" y="804" font-size="12" fill="rgb(20,20,20)">valid_from</text>
+<text x="570" y="804" font-size="12" fill="rgb(120,120,120)">date</text>
+<rect x="362" y="810" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="368" y="826" font-size="12" fill="rgb(20,20,20)">valid_to</text>
+<text x="570" y="826" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="368" y="848" font-size="12" fill="rgb(20,20,20)">is_current</text>
+<text x="570" y="848" font-size="12" fill="rgb(120,120,120)">bool</text>
+<rect x="740" y="80" width="250" height="336" fill="white" stroke="rgb(120,108,166)" stroke-width="2"/>
+<rect x="740" y="80" width="250" height="28" fill="rgb(214,210,232)" stroke="rgb(120,108,166)" stroke-width="2"/>
+<text x="748" y="99" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_ORDER</text>
+<text x="748" y="124" font-size="12" fill="rgb(20,20,20)">order_detail_sk</text>
+<text x="950" y="124" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="124" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="130" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="146" font-size="12" fill="rgb(20,20,20)">dim_date_sk</text>
+<text x="950" y="146" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="146" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="168" font-size="12" fill="rgb(20,20,20)">dim_product_sk</text>
+<text x="950" y="168" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="168" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="174" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="190" font-size="12" fill="rgb(20,20,20)">dim_customer_sk</text>
+<text x="950" y="190" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="190" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="212" font-size="12" fill="rgb(20,20,20)">dim_retailer_sk</text>
+<text x="950" y="212" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="212" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="218" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="234" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="950" y="234" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="234" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="256" font-size="12" fill="rgb(20,20,20)">dim_order_method_sk</text>
+<text x="950" y="256" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="256" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="262" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="278" font-size="12" fill="rgb(20,20,20)">order_number</text>
+<text x="950" y="278" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="748" y="300" font-size="12" fill="rgb(20,20,20)">quantity</text>
+<text x="950" y="300" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="742" y="306" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="322" font-size="12" fill="rgb(20,20,20)">unit_cost</text>
+<text x="950" y="322" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="748" y="344" font-size="12" fill="rgb(20,20,20)">unit_price</text>
+<text x="950" y="344" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="742" y="350" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="366" font-size="12" fill="rgb(20,20,20)">unit_sale_price</text>
+<text x="950" y="366" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="748" y="388" font-size="12" fill="rgb(20,20,20)">revenue</text>
+<text x="950" y="388" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="742" y="394" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="410" font-size="12" fill="rgb(20,20,20)">gross_margin</text>
+<text x="950" y="410" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="740" y="442" width="250" height="182" fill="white" stroke="rgb(120,108,166)" stroke-width="2"/>
+<rect x="740" y="442" width="250" height="28" fill="rgb(214,210,232)" stroke="rgb(120,108,166)" stroke-width="2"/>
+<text x="748" y="461" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_INVENTORY</text>
+<text x="748" y="486" font-size="12" fill="rgb(20,20,20)">inventory_sk</text>
+<text x="950" y="486" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="486" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="492" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="508" font-size="12" fill="rgb(20,20,20)">dim_product_sk</text>
+<text x="950" y="508" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="508" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="530" font-size="12" fill="rgb(20,20,20)">dim_date_sk</text>
+<text x="950" y="530" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="530" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="536" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="552" font-size="12" fill="rgb(20,20,20)">inventory_count</text>
+<text x="950" y="552" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="748" y="574" font-size="12" fill="rgb(20,20,20)">qty_sold</text>
+<text x="950" y="574" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="742" y="580" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="596" font-size="12" fill="rgb(20,20,20)">coverage_months</text>
+<text x="950" y="596" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="748" y="618" font-size="12" fill="rgb(20,20,20)">surplus_ratio</text>
+<text x="950" y="618" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="740" y="650" width="250" height="182" fill="white" stroke="rgb(120,108,166)" stroke-width="2"/>
+<rect x="740" y="650" width="250" height="28" fill="rgb(214,210,232)" stroke="rgb(120,108,166)" stroke-width="2"/>
+<text x="748" y="669" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_SALES_TARGET</text>
+<text x="748" y="694" font-size="12" fill="rgb(20,20,20)">target_sk</text>
+<text x="950" y="694" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="694" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="700" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="716" font-size="12" fill="rgb(20,20,20)">dim_product_sk</text>
+<text x="950" y="716" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="716" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="738" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="950" y="738" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="738" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="744" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="760" font-size="12" fill="rgb(20,20,20)">dim_date_sk</text>
+<text x="950" y="760" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="760" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="782" font-size="12" fill="rgb(20,20,20)">sales_target</text>
+<text x="950" y="782" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="742" y="788" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="804" font-size="12" fill="rgb(20,20,20)">revenue_actual</text>
+<text x="950" y="804" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="748" y="826" font-size="12" fill="rgb(20,20,20)">target_gap</text>
+<text x="950" y="826" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="740" y="858" width="250" height="270" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="740" y="858" width="250" height="28" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="748" y="877" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_RETURNS</text>
+<text x="748" y="902" font-size="12" fill="rgb(20,20,20)">return_sk</text>
+<text x="950" y="902" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="902" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="908" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="924" font-size="12" fill="rgb(20,20,20)">dim_date_sk</text>
+<text x="950" y="924" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="924" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="946" font-size="12" fill="rgb(20,20,20)">dim_product_sk</text>
+<text x="950" y="946" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="946" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="952" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="968" font-size="12" fill="rgb(20,20,20)">dim_customer_sk</text>
+<text x="950" y="968" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="968" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="990" font-size="12" fill="rgb(20,20,20)">dim_retailer_sk</text>
+<text x="950" y="990" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="990" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="996" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1012" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="950" y="1012" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1012" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="1034" font-size="12" fill="rgb(20,20,20)">dim_return_reason_sk</text>
+<text x="950" y="1034" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1034" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="1040" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1056" font-size="12" fill="rgb(20,20,20)">return_quantity</text>
+<text x="950" y="1056" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="748" y="1078" font-size="12" fill="rgb(20,20,20)">original_quantity *</text>
+<text x="950" y="1078" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="742" y="1084" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1100" font-size="12" fill="rgb(20,20,20)">return_value *</text>
+<text x="950" y="1100" font-size="12" fill="rgb(120,120,120)">dec</text>
+<text x="748" y="1122" font-size="12" fill="rgb(20,20,20)">gross_loss *</text>
+<text x="950" y="1122" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="740" y="1154" width="250" height="160" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="740" y="1154" width="250" height="28" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="748" y="1173" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_TRAINING</text>
+<text x="748" y="1198" font-size="12" fill="rgb(20,20,20)">training_sk</text>
+<text x="950" y="1198" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1198" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="1204" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1220" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="950" y="1220" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1220" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="1242" font-size="12" fill="rgb(20,20,20)">dim_course_sk</text>
+<text x="950" y="1242" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1242" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="1248" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1264" font-size="12" fill="rgb(20,20,20)">year_num</text>
+<text x="950" y="1264" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="748" y="1286" font-size="12" fill="rgb(20,20,20)">courses_followed</text>
+<text x="950" y="1286" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="742" y="1292" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1308" font-size="12" fill="rgb(20,20,20)">course_cost *</text>
+<text x="950" y="1308" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="740" y="1340" width="250" height="138" fill="white" stroke="rgb(217,48,122)" stroke-width="2"/>
+<rect x="740" y="1340" width="250" height="28" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="748" y="1359" font-size="14" font-weight="bold" fill="rgb(20,20,20)">FACT_STAFF_SATISFACTION</text>
+<text x="748" y="1384" font-size="12" fill="rgb(20,20,20)">satisfaction_sk</text>
+<text x="950" y="1384" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1384" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="742" y="1390" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1406" font-size="12" fill="rgb(20,20,20)">dim_staff_sk</text>
+<text x="950" y="1406" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1406" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="748" y="1428" font-size="12" fill="rgb(20,20,20)">dim_satisfaction_type_sk</text>
+<text x="950" y="1428" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="904" y="1428" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="742" y="1434" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="748" y="1450" font-size="12" fill="rgb(20,20,20)">year_num</text>
+<text x="950" y="1450" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="748" y="1472" font-size="12" fill="rgb(20,20,20)">satisfaction_score *</text>
+<text x="950" y="1472" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="1130" y="80" width="250" height="270" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="1130" y="80" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="1138" y="99" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_CUSTOMER</text>
+<text x="1138" y="124" font-size="12" fill="rgb(20,20,20)">dim_customer_sk</text>
+<text x="1340" y="124" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="124" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="130" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="146" font-size="12" fill="rgb(20,20,20)">segment_sk</text>
+<text x="1340" y="146" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="146" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<text x="1138" y="168" font-size="12" fill="rgb(20,20,20)">territory_sk</text>
+<text x="1340" y="168" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="168" font-size="11" font-weight="bold" fill="rgb(217,48,122)">FK</text>
+<rect x="1132" y="174" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="190" font-size="12" fill="rgb(20,20,20)">customer_code</text>
+<text x="1340" y="190" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="212" font-size="12" fill="rgb(20,20,20)">company_name</text>
+<text x="1340" y="212" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="218" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="234" font-size="12" fill="rgb(20,20,20)">customer_type_en</text>
+<text x="1340" y="234" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="256" font-size="12" fill="rgb(20,20,20)">country_en</text>
+<text x="1340" y="256" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="262" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="278" font-size="12" fill="rgb(20,20,20)">region</text>
+<text x="1340" y="278" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="300" font-size="12" fill="rgb(20,20,20)">valid_from</text>
+<text x="1340" y="300" font-size="12" fill="rgb(120,120,120)">date</text>
+<rect x="1132" y="306" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="322" font-size="12" fill="rgb(20,20,20)">valid_to</text>
+<text x="1340" y="322" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="1138" y="344" font-size="12" fill="rgb(20,20,20)">is_current</text>
+<text x="1340" y="344" font-size="12" fill="rgb(120,120,120)">bool</text>
+<rect x="1130" y="376" width="250" height="226" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="1130" y="376" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="1138" y="395" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_RETAILER</text>
+<text x="1138" y="420" font-size="12" fill="rgb(20,20,20)">dim_retailer_sk</text>
+<text x="1340" y="420" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="420" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="426" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="442" font-size="12" fill="rgb(20,20,20)">retailer_site_code</text>
+<text x="1340" y="442" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="464" font-size="12" fill="rgb(20,20,20)">retailer_code</text>
+<text x="1340" y="464" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="470" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="486" font-size="12" fill="rgb(20,20,20)">city</text>
+<text x="1340" y="486" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="508" font-size="12" fill="rgb(20,20,20)">region</text>
+<text x="1340" y="508" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="514" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="530" font-size="12" fill="rgb(20,20,20)">country_code</text>
+<text x="1340" y="530" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="552" font-size="12" fill="rgb(20,20,20)">active_indicator</text>
+<text x="1340" y="552" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="558" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="574" font-size="12" fill="rgb(20,20,20)">full_address</text>
+<text x="1340" y="574" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="596" font-size="12" fill="rgb(20,20,20)">contact_name</text>
+<text x="1340" y="596" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1130" y="628" width="250" height="116" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="1130" y="628" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="1138" y="647" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_ORDER_METHOD</text>
+<text x="1138" y="672" font-size="12" fill="rgb(20,20,20)">dim_order_method_sk</text>
+<text x="1340" y="672" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="672" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="678" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="694" font-size="12" fill="rgb(20,20,20)">order_method_code</text>
+<text x="1340" y="694" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="716" font-size="12" fill="rgb(20,20,20)">order_method_en</text>
+<text x="1340" y="716" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="722" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="738" font-size="12" fill="rgb(20,20,20)">channel_group</text>
+<text x="1340" y="738" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1130" y="770" width="250" height="204" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1130" y="770" width="250" height="28" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1138" y="789" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_RETURN_REASON</text>
+<text x="1138" y="814" font-size="12" fill="rgb(20,20,20)">dim_return_reason_sk</text>
+<text x="1340" y="814" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="814" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="820" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="836" font-size="12" fill="rgb(20,20,20)">return_reason_code</text>
+<text x="1340" y="836" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1138" y="858" font-size="12" fill="rgb(20,20,20)">reason_description</text>
+<text x="1340" y="858" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="864" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="880" font-size="12" fill="rgb(20,20,20)">reason_category *</text>
+<text x="1340" y="880" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="902" font-size="12" fill="rgb(20,20,20)">valid_from</text>
+<text x="1340" y="902" font-size="12" fill="rgb(120,120,120)">date</text>
+<rect x="1132" y="908" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="924" font-size="12" fill="rgb(20,20,20)">valid_to</text>
+<text x="1340" y="924" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="1138" y="946" font-size="12" fill="rgb(20,20,20)">is_current</text>
+<text x="1340" y="946" font-size="12" fill="rgb(120,120,120)">bool</text>
+<rect x="1132" y="952" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="968" font-size="12" fill="rgb(20,20,20)">version</text>
+<text x="1340" y="968" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="1130" y="1000" width="250" height="226" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1130" y="1000" width="250" height="28" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1138" y="1019" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_COURSE</text>
+<text x="1138" y="1044" font-size="12" fill="rgb(20,20,20)">dim_course_sk</text>
+<text x="1340" y="1044" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="1044" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="1050" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1066" font-size="12" fill="rgb(20,20,20)">course_code</text>
+<text x="1340" y="1066" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1138" y="1088" font-size="12" fill="rgb(20,20,20)">course_description</text>
+<text x="1340" y="1088" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="1094" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1110" font-size="12" fill="rgb(20,20,20)">course_category *</text>
+<text x="1340" y="1110" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1138" y="1132" font-size="12" fill="rgb(20,20,20)">standard_cost *</text>
+<text x="1340" y="1132" font-size="12" fill="rgb(120,120,120)">dec</text>
+<rect x="1132" y="1138" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1154" font-size="12" fill="rgb(20,20,20)">valid_from</text>
+<text x="1340" y="1154" font-size="12" fill="rgb(120,120,120)">date</text>
+<text x="1138" y="1176" font-size="12" fill="rgb(20,20,20)">valid_to</text>
+<text x="1340" y="1176" font-size="12" fill="rgb(120,120,120)">date</text>
+<rect x="1132" y="1182" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1198" font-size="12" fill="rgb(20,20,20)">is_current</text>
+<text x="1340" y="1198" font-size="12" fill="rgb(120,120,120)">bool</text>
+<text x="1138" y="1220" font-size="12" fill="rgb(20,20,20)">version</text>
+<text x="1340" y="1220" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="1130" y="1252" width="250" height="116" fill="white" stroke="rgb(52,168,83)" stroke-width="2"/>
+<rect x="1130" y="1252" width="250" height="28" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="1138" y="1271" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_SATISFACTION_TYPE</text>
+<text x="1138" y="1296" font-size="12" fill="rgb(20,20,20)">dim_satisfaction_type_sk</text>
+<text x="1340" y="1296" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1294" y="1296" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1132" y="1302" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1318" font-size="12" fill="rgb(20,20,20)">satisfaction_type_code</text>
+<text x="1340" y="1318" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1138" y="1340" font-size="12" fill="rgb(20,20,20)">type_description</text>
+<text x="1340" y="1340" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1132" y="1346" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1138" y="1362" font-size="12" fill="rgb(20,20,20)">satisfaction_score *</text>
+<text x="1340" y="1362" font-size="12" fill="rgb(120,120,120)">int</text>
+<rect x="1500" y="80" width="250" height="116" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="1500" y="80" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="1508" y="99" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_SEGMENT</text>
+<text x="1508" y="124" font-size="12" fill="rgb(20,20,20)">segment_sk</text>
+<text x="1710" y="124" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1664" y="124" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1502" y="130" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1508" y="146" font-size="12" fill="rgb(20,20,20)">segment_code</text>
+<text x="1710" y="146" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1508" y="168" font-size="12" fill="rgb(20,20,20)">segment_name</text>
+<text x="1710" y="168" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1502" y="174" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1508" y="190" font-size="12" fill="rgb(20,20,20)">segment_description</text>
+<text x="1710" y="190" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="1500" y="222" width="250" height="94" fill="white" stroke="rgb(132,138,146)" stroke-width="2"/>
+<rect x="1500" y="222" width="250" height="28" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="1508" y="241" font-size="14" font-weight="bold" fill="rgb(20,20,20)">DIM_TERRITORY</text>
+<text x="1508" y="266" font-size="12" fill="rgb(20,20,20)">territory_sk</text>
+<text x="1710" y="266" font-size="12" fill="rgb(120,120,120)">int</text>
+<text x="1664" y="266" font-size="11" font-weight="bold" fill="rgb(120,108,166)">PK</text>
+<rect x="1502" y="272" width="246" height="22" fill="rgb(248,248,248)"/>
+<text x="1508" y="288" font-size="12" fill="rgb(20,20,20)">territory_code</text>
+<text x="1710" y="288" font-size="12" fill="rgb(120,120,120)">string</text>
+<text x="1508" y="310" font-size="12" fill="rgb(20,20,20)">territory_name</text>
+<text x="1710" y="310" font-size="12" fill="rgb(120,120,120)">string</text>
+<rect x="40" y="1528" width="24" height="16" fill="rgb(223,227,232)" stroke="rgb(132,138,146)" stroke-width="2"/>
+<text x="70" y="1541" font-size="13" fill="rgb(20,20,20)">Bestaande dimensie</text>
+<rect x="260" y="1528" width="24" height="16" fill="rgb(214,210,232)" stroke="rgb(120,108,166)" stroke-width="2"/>
+<text x="290" y="1541" font-size="13" fill="rgb(20,20,20)">Bestaand feit</text>
+<rect x="460" y="1528" width="24" height="16" fill="rgb(200,230,201)" stroke="rgb(52,168,83)" stroke-width="2"/>
+<text x="490" y="1541" font-size="13" fill="rgb(20,20,20)">Nieuwe dimensie (herkansing)</text>
+<rect x="720" y="1528" width="24" height="16" fill="rgb(248,187,208)" stroke="rgb(217,48,122)" stroke-width="2"/>
+<text x="750" y="1541" font-size="13" fill="rgb(20,20,20)">Nieuw feit (herkansing)</text>
+<text x="40" y="1562" font-size="13" fill="rgb(20,20,20)">* = afgeleid attribuut/meetwaarde.  Roze verbindingen = nieuwe koppelingen.  PK/FK = primaire/vreemde sleutel.</text>
+<text x="40" y="1582" font-size="13" fill="rgb(20,20,20)">Sneeuwvlok: DIM_PRODUCT&#8594;TYPE/LINE, DIM_STAFF&#8594;BRANCH, DIM_CUSTOMER&#8594;SEGMENT/TERRITORY.</text>
+</svg>
