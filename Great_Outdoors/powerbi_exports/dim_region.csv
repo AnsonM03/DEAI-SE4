@@ -1,0 +1,238 @@
+﻿region_key,region_bk,city,region,country_code,country,territory_name
+1,Winnipeg|Manitoba|4,Winnipeg,Manitoba,4,Canada,Americas
+2,Montréal|Québec|4,Montréal,Québec,4,Canada,Americas
+3,Fredericton|New Brunswick|4,Fredericton,New Brunswick,4,Canada,Americas
+4,Sudbury|Ontario|4,Sudbury,Ontario,4,Canada,Americas
+5,Tremblant|Québec|4,Tremblant,Québec,4,Canada,Americas
+6,Regina|Saskatchewan|4,Regina,Saskatchewan,4,Canada,Americas
+7,Whitehorse|Yukon|4,Whitehorse,Yukon,4,Canada,Americas
+8,Toronto|Ontario|4,Toronto,Ontario,4,Canada,Americas
+9,Vancouver|British Columbia|4,Vancouver,British Columbia,4,Canada,Americas
+10,Victoria|British Columbia|4,Victoria,British Columbia,4,Canada,Americas
+11,Hull|Québec|4,Hull,Québec,4,Canada,Americas
+12,Ottawa|Ontario|4,Ottawa,Ontario,4,Canada,Americas
+13,Halifax|Nova Scotia|4,Halifax,Nova Scotia,4,Canada,Americas
+14,Dawson Creek|British Columbia|4,Dawson Creek,British Columbia,4,Canada,Americas
+15,St. John's|Newfoundland|4,St. John's,Newfoundland,4,Canada,Americas
+16,Charlottetown|Prince Edward Island|4,Charlottetown,Prince Edward Island,4,Canada,Americas
+17,Frankfurt|Hessen|2,Frankfurt,Hessen,2,Germany,Central Europe
+18,Berlin|Berlin|2,Berlin,Berlin,2,Germany,Central Europe
+19,Bonn|Nordrhein-Westfalen|2,Bonn,Nordrhein-Westfalen,2,Germany,Central Europe
+20,Hamburg|Hamburg|2,Hamburg,Hamburg,2,Germany,Central Europe
+21,Dresden|Sachsen|2,Dresden,Sachsen,2,Germany,Central Europe
+22,Düsseldorf|Nordrhein-Westfalen|2,Düsseldorf,Nordrhein-Westfalen,2,Germany,Central Europe
+23,Mannheim|Baden-Württemberg|2,Mannheim,Baden-Württemberg,2,Germany,Central Europe
+24,Mainz|Rheinland-Pfalz|2,Mainz,Rheinland-Pfalz,2,Germany,Central Europe
+25,Hannover|Niedersachsen|2,Hannover,Niedersachsen,2,Germany,Central Europe
+26,Kiel|Schleswig-Holstein|2,Kiel,Schleswig-Holstein,2,Germany,Central Europe
+27,Schwerin|Mecklenburg-Vorpommern|2,Schwerin,Mecklenburg-Vorpommern,2,Germany,Central Europe
+28,Potsdam|Brandenburg|2,Potsdam,Brandenburg,2,Germany,Central Europe
+29,Bremen|Bremen|2,Bremen,Bremen,2,Germany,Central Europe
+30,Saarbrücken|Saarland|2,Saarbrücken,Saarland,2,Germany,Central Europe
+31,Freiburg|Baden-Württemberg|2,Freiburg,Baden-Württemberg,2,Germany,Central Europe
+32,Erfurt|Thüringen|2,Erfurt,Thüringen,2,Germany,Central Europe
+33,München|Bayern|2,München,Bayern,2,Germany,Central Europe
+34,Magdeburg|Sachsen-Anhalt|2,Magdeburg,Sachsen-Anhalt,2,Germany,Central Europe
+35,Hartford|Connecticut|3,Hartford,Connecticut,3,United States,Americas
+36,Atlanta|Georgia|3,Atlanta,Georgia,3,United States,Americas
+37,Baltimore|Maryland|3,Baltimore,Maryland,3,United States,Americas
+38,Boston|Massachusetts|3,Boston,Massachusetts,3,United States,Americas
+39,Buffalo|New York|3,Buffalo,New York,3,United States,Americas
+40,New York|New York|3,New York,New York,3,United States,Americas
+41,Billings|Montana|3,Billings,Montana,3,United States,Americas
+42,Lincoln|Nebraska|3,Lincoln,Nebraska,3,United States,Americas
+43,Cincinnati|Ohio|3,Cincinnati,Ohio,3,United States,Americas
+44,Providence|Rhode Island|3,Providence,Rhode Island,3,United States,Americas
+45,Hanover|New Hampshire|3,Hanover,New Hampshire,3,United States,Americas
+46,Springfield|Missouri|3,Springfield,Missouri,3,United States,Americas
+47,Bismark|North Dakota|3,Bismark,North Dakota,3,United States,Americas
+48,Portland|Oregon|3,Portland,Oregon,3,United States,Americas
+49,Carson City|Nevada|3,Carson City,Nevada,3,United States,Americas
+50,Las Vegas|Nevada|3,Las Vegas,Nevada,3,United States,Americas
+51,Oklahoma City|Oklahoma|3,Oklahoma City,Oklahoma,3,United States,Americas
+52,Chattanooga|Tennessee|3,Chattanooga,Tennessee,3,United States,Americas
+53,Houston|Texas|3,Houston,Texas,3,United States,Americas
+54,Alexandria|Virginia|3,Alexandria,Virginia,3,United States,Americas
+55,Seattle|Washington|3,Seattle,Washington,3,United States,Americas
+56,Charleston|West Virginia|3,Charleston,West Virginia,3,United States,Americas
+57,Miami|Florida|3,Miami,Florida,3,United States,Americas
+58,Dallas|Texas|3,Dallas,Texas,3,United States,Americas
+59,Los Angeles|California|3,Los Angeles,California,3,United States,Americas
+60,San Diego|California|3,San Diego,California,3,United States,Americas
+61,San Francisco|California|3,San Francisco,California,3,United States,Americas
+62,Albuquerque|New Mexico|3,Albuquerque,New Mexico,3,United States,Americas
+63,Austin|Texas|3,Austin,Texas,3,United States,Americas
+64,Independence|Kentucky|3,Independence,Kentucky,3,United States,Americas
+65,Albany|New York|3,Albany,New York,3,United States,Americas
+66,Salt Lake City|Utah|3,Salt Lake City,Utah,3,United States,Americas
+67,Chapel Hill|North Carolina|3,Chapel Hill,North Carolina,3,United States,Americas
+68,Charleston|South Carolina|3,Charleston,South Carolina,3,United States,Americas
+69,Phoenix|Arizona|3,Phoenix,Arizona,3,United States,Americas
+70,Boulder|Colorado|3,Boulder,Colorado,3,United States,Americas
+71,Montpelier|Vermont|3,Montpelier,Vermont,3,United States,Americas
+72,Richmond|Virginia|3,Richmond,Virginia,3,United States,Americas
+73,Madison|Wisconsin|3,Madison,Wisconsin,3,United States,Americas
+74,Casper|Wyoming|3,Casper,Wyoming,3,United States,Americas
+75,Dover|Delaware|3,Dover,Delaware,3,United States,Americas
+76,Jacksonville|Florida|3,Jacksonville,Florida,3,United States,Americas
+77,Denver|Colorado|3,Denver,Colorado,3,United States,Americas
+78,Washington|DC|3,Washington,DC,3,United States,Americas
+79,Birmingham|Alabama|3,Birmingham,Alabama,3,United States,Americas
+80,Jackson|Mississippi|3,Jackson,Mississippi,3,United States,Americas
+81,Lake Placid|New York|3,Lake Placid,New York,3,United States,Americas
+82,Tucson|Arizona|3,Tucson,Arizona,3,United States,Americas
+83,Little Rock|Arkansas|3,Little Rock,Arkansas,3,United States,Americas
+84,Anaheim|California|3,Anaheim,California,3,United States,Americas
+85,Boise|Idaho|3,Boise,Idaho,3,United States,Americas
+86,Chicago|Illinois|3,Chicago,Illinois,3,United States,Americas
+87,Indianapolis|Indiana|3,Indianapolis,Indiana,3,United States,Americas
+88,Detroit|Michigan|3,Detroit,Michigan,3,United States,Americas
+89,Duluth|Minnesota|3,Duluth,Minnesota,3,United States,Americas
+90,Rapid City|South Dakota|3,Rapid City,South Dakota,3,United States,Americas
+91,Anchorage|Alaska|3,Anchorage,Alaska,3,United States,Americas
+92,Honolulu|Hawaii|3,Honolulu,Hawaii,3,United States,Americas
+93,Cedar Rapids|Iowa|3,Cedar Rapids,Iowa,3,United States,Americas
+94,Topeka|Kansas|3,Topeka,Kansas,3,United States,Americas
+95,Portland|Maine|3,Portland,Maine,3,United States,Americas
+96,Atlantic City|New Jersey|3,Atlantic City,New Jersey,3,United States,Americas
+97,Philadelphia|Pennsylvania|3,Philadelphia,Pennsylvania,3,United States,Americas
+98,Baton Rouge|Louisiana|3,Baton Rouge,Louisiana,3,United States,Americas
+99,Paris|UNKNOWN|1,Paris,,1,France,Central Europe
+100,Strasbourg|UNKNOWN|1,Strasbourg,,1,France,Central Europe
+101,Lyon|UNKNOWN|1,Lyon,,1,France,Central Europe
+102,Nice|UNKNOWN|1,Nice,,1,France,Central Europe
+103,Orléans|UNKNOWN|1,Orléans,,1,France,Central Europe
+104,Bordeaux|UNKNOWN|1,Bordeaux,,1,France,Central Europe
+105,Chamonix|UNKNOWN|1,Chamonix,,1,France,Central Europe
+106,Poitiers|UNKNOWN|1,Poitiers,,1,France,Central Europe
+107,Roubaix|UNKNOWN|1,Roubaix,,1,France,Central Europe
+108,Grenoble|UNKNOWN|1,Grenoble,,1,France,Central Europe
+109,Annecy|UNKNOWN|1,Annecy,,1,France,Central Europe
+110,Nantes|UNKNOWN|1,Nantes,,1,France,Central Europe
+111,Tours|UNKNOWN|1,Tours,,1,France,Central Europe
+112,Marseille|UNKNOWN|1,Marseille,,1,France,Central Europe
+113,Cancún|Quintana Roo|20,Cancún,Quintana Roo,20,Mexico,Americas
+114,Distrito Federal|México|20,Distrito Federal,México,20,Mexico,Americas
+115,Guadalajara|Jalisco|20,Guadalajara,Jalisco,20,Mexico,Americas
+116,Puerto Vallarta|Jalisco|20,Puerto Vallarta,Jalisco,20,Mexico,Americas
+117,Monterey|Nuevo León|20,Monterey,Nuevo León,20,Mexico,Americas
+118,México City|México|20,México City,México,20,Mexico,Americas
+119,Osaka-shi|Osaka|11,Osaka-shi,Osaka,11,Japan,Asia Pacific
+120,Hiroshima-shi|Hiroshima|11,Hiroshima-shi,Hiroshima,11,Japan,Asia Pacific
+121,Tokyo|Tokyo|11,Tokyo,Tokyo,11,Japan,Asia Pacific
+122,Sendai-shi|Miyagi|11,Sendai-shi,Miyagi,11,Japan,Asia Pacific
+123,Fukuoka-shi|Fukuoka|11,Fukuoka-shi,Fukuoka,11,Japan,Asia Pacific
+124,Stockholm|UNKNOWN|10,Stockholm,,10,Sweden,Northern Europe
+125,Arvika|UNKNOWN|10,Arvika,,10,Sweden,Northern Europe
+126,Karlstad|UNKNOWN|10,Karlstad,,10,Sweden,Northern Europe
+127,Ludvika|UNKNOWN|10,Ludvika,,10,Sweden,Northern Europe
+128,Sundsvall|UNKNOWN|10,Sundsvall,,10,Sweden,Northern Europe
+129,Bollnäs|UNKNOWN|10,Bollnäs,,10,Sweden,Northern Europe
+130,Malmö|UNKNOWN|10,Malmö,,10,Sweden,Northern Europe
+131,Göteborg|UNKNOWN|10,Göteborg,,10,Sweden,Northern Europe
+132,Solna|UNKNOWN|10,Solna,,10,Sweden,Northern Europe
+133,Mölndal|UNKNOWN|10,Mölndal,,10,Sweden,Northern Europe
+134,Beets|UNKNOWN|7,Beets,,7,Netherlands,
+135,Deventer|UNKNOWN|7,Deventer,,7,Netherlands,
+136,Den Haag|UNKNOWN|7,Den Haag,,7,Netherlands,
+137,Amstelveen|UNKNOWN|7,Amstelveen,,7,Netherlands,
+138,Groningen|UNKNOWN|7,Groningen,,7,Netherlands,
+139,Amsterdam|UNKNOWN|7,Amsterdam,,7,Netherlands,
+140,Varsseveld|UNKNOWN|7,Varsseveld,,7,Netherlands,
+141,Muiden|UNKNOWN|7,Muiden,,7,Netherlands,
+142,Laren|UNKNOWN|7,Laren,,7,Netherlands,
+143,Pieterburen|UNKNOWN|7,Pieterburen,,7,Netherlands,
+144,Maarssen|UNKNOWN|7,Maarssen,,7,Netherlands,
+145,Marken|UNKNOWN|7,Marken,,7,Netherlands,
+146,Wageningen|UNKNOWN|7,Wageningen,,7,Netherlands,
+147,Nieuweschans|UNKNOWN|7,Nieuweschans,,7,Netherlands,
+148,Rotterdam|UNKNOWN|7,Rotterdam,,7,Netherlands,
+149,Bologna|UNKNOWN|6,Bologna,,6,Italy,Southern Europe
+150,Bergamo|UNKNOWN|6,Bergamo,,6,Italy,Southern Europe
+151,Firenze|UNKNOWN|6,Firenze,,6,Italy,Southern Europe
+152,Milano|UNKNOWN|6,Milano,,6,Italy,Southern Europe
+153,Roma|UNKNOWN|6,Roma,,6,Italy,Southern Europe
+154,Torino|UNKNOWN|6,Torino,,6,Italy,Southern Europe
+155,Genova|UNKNOWN|6,Genova,,6,Italy,Southern Europe
+156,Napoli|UNKNOWN|6,Napoli,,6,Italy,Southern Europe
+157,Venezia|UNKNOWN|6,Venezia,,6,Italy,Southern Europe
+158,Melbourne|VIC|16,Melbourne,VIC,16,Australia,Asia Pacific
+159,Brisbane|VIC|16,Brisbane,VIC,16,Australia,Asia Pacific
+160,Cairns|VIC|16,Cairns,VIC,16,Australia,Asia Pacific
+161,Perth|NSW|16,Perth,NSW,16,Australia,Asia Pacific
+162,NewCastle|NSW|16,NewCastle,NSW,16,Australia,Asia Pacific
+163,Sydney|VIC|16,Sydney,VIC,16,Australia,Asia Pacific
+164,Sydney|NSW|16,Sydney,NSW,16,Australia,Asia Pacific
+165,Barcelona|Barcelona|19,Barcelona,Barcelona,19,Spain,Southern Europe
+166,Bilbao|Vizcaya|19,Bilbao,Vizcaya,19,Spain,Southern Europe
+167,Logroño|La Rioja|19,Logroño,La Rioja,19,Spain,Southern Europe
+168,Madrid|Madrid|19,Madrid,Madrid,19,Spain,Southern Europe
+169,Zaragoza|Zaragoza|19,Zaragoza,Zaragoza,19,Spain,Southern Europe
+170,São Paulo|SP|21,São Paulo,SP,21,Brazil,Americas
+171,København|UNKNOWN|18,København,,18,Denmark,Northern Europe
+172,Kolding|UNKNOWN|18,Kolding,,18,Denmark,Northern Europe
+173,Roskilde|UNKNOWN|18,Roskilde,,18,Denmark,Northern Europe
+174,Aarhus|UNKNOWN|18,Aarhus,,18,Denmark,Northern Europe
+175,Birkerød|UNKNOWN|18,Birkerød,,18,Denmark,Northern Europe
+176,Tampere|UNKNOWN|22,Tampere,,22,Finland,Northern Europe
+177,Porvoo|UNKNOWN|22,Porvoo,,22,Finland,Northern Europe
+178,Turku|UNKNOWN|22,Turku,,22,Finland,Northern Europe
+179,Helsinki|UNKNOWN|22,Helsinki,,22,Finland,Northern Europe
+180,Vantaa|UNKNOWN|22,Vantaa,,22,Finland,Northern Europe
+181,Pusan|UNKNOWN|13,Pusan,,13,,Asia Pacific
+182,Seoul|UNKNOWN|13,Seoul,,13,,Asia Pacific
+183,Taegu|UNKNOWN|13,Taegu,,13,,Asia Pacific
+184,Taejeon|UNKNOWN|13,Taejeon,,13,,Asia Pacific
+185,Incheon|UNKNOWN|13,Incheon,,13,,Asia Pacific
+186,Kwangju|UNKNOWN|13,Kwangju,,13,,Asia Pacific
+187,Chungho City|Taipei|12,Chungho City,Taipei,12,,Asia Pacific
+188,Tucheng City|Taipei|12,Tucheng City,Taipei,12,,Asia Pacific
+189,Banchiao City|Taipei|12,Banchiao City,Taipei,12,,Asia Pacific
+190,Shinchuang City|Taipei|12,Shinchuang City,Taipei,12,,Asia Pacific
+191,Hsinchu|Hsinchu|12,Hsinchu,Hsinchu,12,,Asia Pacific
+192,Wugu Shiang|Taipei|12,Wugu Shiang,Taipei,12,,Asia Pacific
+193,Sanchung City|Taipei|12,Sanchung City,Taipei,12,,Asia Pacific
+194,Taoyuan City|Taoyuan|12,Taoyuan City,Taoyuan,12,,Asia Pacific
+195,Shulin City|Taipei|12,Shulin City,Taipei,12,,Asia Pacific
+196,Beijing|UNKNOWN|14,Beijing,,14,,Asia Pacific
+197,Chengdu|Sichuan|14,Chengdu,Sichuan,14,,Asia Pacific
+198,Guangzhou|Guangdong|14,Guangzhou,Guangdong,14,,Asia Pacific
+199,Hangzhou|Zhejiang|14,Hangzhou,Zhejiang,14,,Asia Pacific
+200,Shanghai|UNKNOWN|14,Shanghai,,14,,Asia Pacific
+201,Chaiwan|Hong Kong|14,Chaiwan,Hong Kong,14,,Asia Pacific
+202,Zhengzhou|Henan|14,Zhengzhou,Henan,14,,Asia Pacific
+203,London|UNKNOWN|9,London,,9,United Kingdom,Central Europe
+204,Birmingham|West Midlands|9,Birmingham,West Midlands,9,United Kingdom,Central Europe
+205,Bristol|Avon|9,Bristol,Avon,9,United Kingdom,Central Europe
+206,Reading|Berkshire|9,Reading,Berkshire,9,United Kingdom,Central Europe
+207,Milton Keynes|Buckinghamshire|9,Milton Keynes,Buckinghamshire,9,United Kingdom,Central Europe
+208,Southampton|Hampshire|9,Southampton,Hampshire,9,United Kingdom,Central Europe
+209,Oxford|Oxfordshire|9,Oxford,Oxfordshire,9,United Kingdom,Central Europe
+210,Brighton|Sussex|9,Brighton,Sussex,9,United Kingdom,Central Europe
+211,Nottingham|Nottinghamshire|9,Nottingham,Nottinghamshire,9,United Kingdom,Central Europe
+212,Basel|UNKNOWN|8,Basel,,8,Switzerland,Central Europe
+213,Lausanne|UNKNOWN|8,Lausanne,,8,Switzerland,Central Europe
+214,Bellinzona|UNKNOWN|8,Bellinzona,,8,Switzerland,Central Europe
+215,Kirchberg|UNKNOWN|8,Kirchberg,,8,Switzerland,Central Europe
+216,Zürich|UNKNOWN|8,Zürich,,8,Switzerland,Central Europe
+217,Lugano|UNKNOWN|8,Lugano,,8,Switzerland,Central Europe
+218,Genève|UNKNOWN|8,Genève,,8,Switzerland,Central Europe
+219,Fribourg|UNKNOWN|8,Fribourg,,8,Switzerland,Central Europe
+220,St. Gallen|UNKNOWN|8,St. Gallen,,8,Switzerland,Central Europe
+221,Zaventem|UNKNOWN|17,Zaventem,,17,Belgium,
+222,Sint-Niklaas|UNKNOWN|17,Sint-Niklaas,,17,Belgium,
+223,Leuven|UNKNOWN|17,Leuven,,17,Belgium,
+224,Antwerpen|UNKNOWN|17,Antwerpen,,17,Belgium,
+225,Bruxelles|UNKNOWN|17,Bruxelles,,17,Belgium,
+226,Arlon|UNKNOWN|17,Arlon,,17,Belgium,
+227,Liège|UNKNOWN|17,Liège,,17,Belgium,
+228,Charleroi|UNKNOWN|17,Charleroi,,17,Belgium,
+229,Wien|UNKNOWN|5,Wien,,5,Austria,Southern Europe
+230,Kottingbrunn|UNKNOWN|5,Kottingbrunn,,5,Austria,Southern Europe
+231,Ternitz|UNKNOWN|5,Ternitz,,5,Austria,Southern Europe
+232,Loorsdorf|UNKNOWN|5,Loorsdorf,,5,Austria,Southern Europe
+233,Graz|UNKNOWN|5,Graz,,5,Austria,Southern Europe
+234,Klosterneuburg|UNKNOWN|5,Klosterneuburg,,5,Austria,Southern Europe
+235,Linz|UNKNOWN|5,Linz,,5,Austria,Southern Europe
+236,Innsbruck|UNKNOWN|5,Innsbruck,,5,Austria,Southern Europe
+237,Ischgl|UNKNOWN|5,Ischgl,,5,Austria,Southern Europe

@@ -1,0 +1,97 @@
+﻿sales_staff_key,sales_staff_bk,first_name,last_name,full_name,position_en,date_hired,sales_branch_code,branch_city,branch_region,branch_country
+1,4,Denis,Pagé,Denis Pagé,Branch Manager,03-Nov-2015 12:00:00 AM,6,Paris,,France
+2,5,Élizabeth,Michel,Élizabeth Michel,Level 3 Sales Representative,08-Jun-2014 12:00:00 AM,6,Paris,,France
+3,6,Émile,Clermont,Émile Clermont,Level 1 Sales Representative,07-Apr-2017 12:00:00 AM,6,Paris,,France
+4,7,Étienne,Jauvin,Étienne Jauvin,Level 2 Sales Representative,16-Aug-2016 12:00:00 AM,6,Paris,,France
+5,12,Elsbeth,Wiesinger,Elsbeth Wiesinger,Level 2 Sales Representative,27-Feb-2016 12:00:00 AM,13,Hamburg,,Germany
+6,13,Else,Mörike,Else Mörike,Regional Manager,02-Jun-2018 12:00:00 AM,13,Hamburg,,Germany
+7,14,Frank,Fuchs,Frank Fuchs,Branch Manager,12-Jan-2016 12:00:00 AM,13,Hamburg,,Germany
+8,15,Gunter,Erler,Gunter Erler,Level 2 Sales Representative,05-Mar-2017 12:00:00 AM,13,Hamburg,,Germany
+9,16,Björn,Winkler,Björn Winkler,Level 3 Sales Representative,03-Jul-2015 12:00:00 AM,14,München,,Germany
+10,17,Fritz,Hirsch,Fritz Hirsch,Branch Manager,12-Sep-2015 12:00:00 AM,14,München,,Germany
+11,18,Jörg,Kunze,Jörg Kunze,District Manager,07-Jan-2019 12:00:00 AM,14,München,,Germany
+12,19,Silvano,Allessori,Silvano Allessori,Level 2 Sales Representative,06-Dec-2017 12:00:00 AM,7,Milano,,Italy
+13,20,Maria,Iacobucci,Maria Iacobucci,Branch Manager,18-Aug-2015 12:00:00 AM,7,Milano,,Italy
+14,21,Alessandra,Torta,Alessandra Torta,Level 3 Sales Representative,13-Feb-2016 12:00:00 AM,7,Milano,,Italy
+15,22,Belinda,Jansen-Velasquez,Belinda Jansen-Velasquez,Level 1 Sales Representative,12-Feb-2018 12:00:00 AM,9,Amsterdam,Noord-Holland,Netherlands
+16,23,Ellen,Shapiro,Ellen Shapiro,Level 2 Sales Representative,15-Jan-2018 12:00:00 AM,9,Amsterdam,Noord-Holland,Netherlands
+17,24,Jan,Haverkamp,Jan Haverkamp,Level 2 Sales Representative,18-Jul-2017 12:00:00 AM,9,Amsterdam,Noord-Holland,Netherlands
+18,25,Kick,Kalkman,Kick Kalkman,Branch Manager,06-Sep-2014 12:00:00 AM,9,Amsterdam,Noord-Holland,Netherlands
+19,26,Maria,Laponder,Maria Laponder,Level 3 Sales Representative,10-Oct-2014 12:00:00 AM,9,Amsterdam,Noord-Holland,Netherlands
+20,27,Anders,Nilsson,Anders Nilsson,Level 2 Sales Representative,14-Aug-2017 12:00:00 AM,15,Kista,,Sweden
+21,28,Bengt,Gradin,Bengt Gradin,Level 1 Sales Representative,13-Jan-2018 12:00:00 AM,15,Kista,,Sweden
+22,29,Irene,Engelbrektsson,Irene Engelbrektsson,Level 2 Sales Representative,18-Feb-2017 12:00:00 AM,15,Kista,,Sweden
+23,30,Karin,Bergström,Karin Bergström,Branch Manager,27-Apr-2017 12:00:00 AM,15,Kista,,Sweden
+24,43,Martine,Vachon,Martine Vachon,Level 2 Sales Representative,18-Mar-2017 12:00:00 AM,17,Calgary,Alberta,Canada
+25,44,Harold,Townsend,Harold Townsend,Level 3 Sales Representative,08-Aug-2011 12:00:00 AM,17,Calgary,Alberta,Canada
+26,45,Sally,White,Sally White,Branch Manager,26-Mar-2011 12:00:00 AM,17,Calgary,Alberta,Canada
+27,46,Sherry,Rowland,Sherry Rowland,Level 2 Sales Representative,13-Feb-2016 12:00:00 AM,17,Calgary,Alberta,Canada
+28,47,Frank,Bretton,Frank Bretton,District Manager,01-Mar-2019 12:00:00 AM,17,Calgary,Alberta,Canada
+29,48,Georges,Saint-Germain,Georges Saint-Germain,Branch Manager,27-Oct-2010 12:00:00 AM,18,Toronto,Ontario,Canada
+30,49,Carole,Claudel,Carole Claudel,Level 2 Sales Representative,12-Aug-2013 12:00:00 AM,18,Toronto,Ontario,Canada
+31,50,Donald,Chow,Donald Chow,Level 3 Sales Representative,14-Apr-2009 12:00:00 AM,18,Toronto,Ontario,Canada
+32,51,Samantha,Pierce,Samantha Pierce,Level 2 Sales Representative,15-Mar-2017 12:00:00 AM,18,Toronto,Ontario,Canada
+33,52,Brendon,Pike,Brendon Pike,Level 1 Sales Representative,20-Dec-2018 12:00:00 AM,18,Toronto,Ontario,Canada
+34,53,Alex,Rodriguez,Alex Rodriguez,Branch Manager,07-Feb-2011 12:00:00 AM,19,Boston,Massachusetts,United States
+35,54,Allisia,Wilcox,Allisia Wilcox,Level 2 Sales Representative,12-Jul-2016 12:00:00 AM,19,Boston,Massachusetts,United States
+36,55,Pierre,Lavoie,Pierre Lavoie,Level 3 Sales Representative,08-Oct-2013 12:00:00 AM,19,Boston,Massachusetts,United States
+37,56,Rhonda,Cummings,Rhonda Cummings,Level 2 Sales Representative,06-May-2015 12:00:00 AM,19,Boston,Massachusetts,United States
+38,57,Samantha,Floyd,Samantha Floyd,Branch Manager,17-Jul-2014 12:00:00 AM,20,Seattle,Washington,United States
+39,58,Ashley,McCormick,Ashley McCormick,Level 2 Sales Representative,15-Apr-2015 12:00:00 AM,20,Seattle,Washington,United States
+40,59,Audrey,Lastman,Audrey Lastman,Level 3 Sales Representative,15-Feb-2014 12:00:00 AM,20,Seattle,Washington,United States
+41,60,Bart,Scott,Bart Scott,Level 2 Sales Representative,28-Nov-2016 12:00:00 AM,20,Seattle,Washington,United States
+42,61,Julie,Olsen,Julie Olsen,Branch Manager,18-Feb-2017 12:00:00 AM,22,Miami,Florida,United States
+43,62,Ken,Chambers,Ken Chambers,Level 2 Sales Representative,03-Apr-2017 12:00:00 AM,22,Miami,Florida,United States
+44,63,Chad,Michaels,Chad Michaels,Level 3 Sales Representative,17-May-2015 12:00:00 AM,22,Miami,Florida,United States
+45,64,Maureen,Hoffman,Maureen Hoffman,Level 2 Sales Representative,22-Jul-2017 12:00:00 AM,22,Miami,Florida,United States
+46,65,Corey,Wright,Corey Wright,Branch Manager,11-Oct-2014 12:00:00 AM,21,Los Angeles,California,United States
+47,66,Dale,Fowler,Dale Fowler,Level 2 Sales Representative,12-Feb-2017 12:00:00 AM,21,Los Angeles,California,United States
+48,67,Lowell,Johnson,Lowell Johnson,Level 2 Sales Representative,06-Mar-2016 12:00:00 AM,21,Los Angeles,California,United States
+49,68,Margaret,Lewiston,Margaret Lewiston,Level 2 Sales Representative,18-Aug-2015 12:00:00 AM,21,Los Angeles,California,United States
+50,69,Eric,Carson,Eric Carson,Level 2 Sales Representative,08-Nov-2015 12:00:00 AM,19,Boston,Massachusetts,United States
+51,70,Valerie,Cohen,Valerie Cohen,Level 2 Sales Representative,23-Jul-2016 12:00:00 AM,21,Los Angeles,California,United States
+52,71,Estelle,Johnson,Estelle Johnson,District Manager,04-Dec-2017 12:00:00 AM,19,Boston,Massachusetts,United States
+53,72,Greg,Belding,Greg Belding,Regional Manager,04-Dec-2017 12:00:00 AM,20,Seattle,Washington,United States
+54,73,Harold,Germaine,Harold Germaine,Level 1 Sales Representative,19-Nov-2017 12:00:00 AM,22,Miami,Florida,United States
+55,74,Janice,Thomas,Janice Thomas,Level 1 Sales Representative,12-Jun-2017 12:00:00 AM,21,Los Angeles,California,United States
+56,75,Julie,Béchard,Julie Béchard,Branch Manager,03-Sep-2013 12:00:00 AM,23,Lyon,,France
+57,76,Florence,Martin,Florence Martin,Level 2 Sales Representative,23-Aug-2016 12:00:00 AM,23,Lyon,,France
+58,77,Daniel,Turpin,Daniel Turpin,Level 2 Sales Representative,13-May-2017 12:00:00 AM,23,Lyon,,France
+59,78,Frédéric,Samson,Frédéric Samson,Level 3 Sales Representative,21-Feb-2013 12:00:00 AM,23,Lyon,,France
+60,79,Lucía,Reyna,Lucía Reyna,Branch Manager,10-Mar-2016 12:00:00 AM,24,Distrito Federal,México,Mexico
+61,80,Ana,Orozco,Ana Orozco,Level 2 Sales Representative,11-Oct-2016 12:00:00 AM,24,Distrito Federal,México,Mexico
+62,81,Gabriela,Rojas,Gabriela Rojas,Level 2 Sales Representative,19-Mar-2017 12:00:00 AM,24,Distrito Federal,México,Mexico
+63,83,Machiko,Iseya,Machiko Iseya,Level 1 Sales Representative,21-Feb-2018 12:00:00 AM,25,Tokyo,Tokyo,Japan
+64,85,Genzo,Imori,Genzo Imori,Level 3 Sales Representative,05-Jan-2017 12:00:00 AM,25,Tokyo,Tokyo,Japan
+65,87,Kazumi,Uragome,Kazumi Uragome,District Manager,05-Nov-2017 12:00:00 AM,26,Osaka City,Osaka,Japan
+66,88,Masuzo,Kakui,Masuzo Kakui,Level 3 Sales Representative,12-May-2017 12:00:00 AM,26,Osaka City,Osaka,Japan
+67,89,Alice,Walter,Alice Walter,Branch Manager,08-Sep-2018 12:00:00 AM,28,Melbourne,VIC,Australia
+68,90,Dave,Smythe,Dave Smythe,Level 1 Sales Representative,10-Jan-2019 12:00:00 AM,28,Melbourne,VIC,Australia
+69,91,Donald,Ward,Donald Ward,Level 2 Sales Representative,29-Nov-2018 12:00:00 AM,28,Melbourne,VIC,Australia
+70,92,Jake,Cartel,Jake Cartel,Level 2 Sales Representative,15-Dec-2018 12:00:00 AM,28,Melbourne,VIC,Australia
+71,93,John,Sinden,John Sinden,Level 3 Sales Representative,30-Nov-2018 12:00:00 AM,28,Melbourne,VIC,Australia
+72,94,Yolanda,Torres,Yolanda Torres,Level 3 Sales Representative,29-Aug-2014 12:00:00 AM,29,Bilbao,Vizcaya,Spain
+73,95,Tomás,Iglesias,Tomás Iglesias,Level 2 Sales Representative,19-Feb-2017 12:00:00 AM,29,Bilbao,Vizcaya,Spain
+74,96,Bayard,Lopes,Bayard Lopes,Branch Manager,12-Aug-2016 12:00:00 AM,30,São Paulo,SP,Brazil
+75,97,Viviam,Barros,Viviam Barros,Level 3 Sales Representative,10-Feb-2020 12:00:00 AM,30,São Paulo,SP,Brazil
+76,98,Eduardo,Guimarães,Eduardo Guimarães,Level 2 Sales Representative,14-Feb-2018 12:00:00 AM,30,São Paulo,SP,Brazil
+77,99,Helena,Lindholm,Helena Lindholm,Level 3 Sales Representative,17-Aug-2016 12:00:00 AM,31,Kuopio,,Finland
+78,100,Tuomas,Savolainen,Tuomas Savolainen,Level 2 Sales Representative,23-Jul-2017 12:00:00 AM,31,Kuopio,,Finland
+79,107,Walter,Taylor,Walter Taylor,Branch Manager,09-Jun-2014 12:00:00 AM,35,London,,United Kingdom
+80,108,Penelope,Tamrine,Penelope Tamrine,General Manager,18-Dec-2017 12:00:00 AM,35,London,,United Kingdom
+81,109,Humphrey,Willoughby,Humphrey Willoughby,Level 2 Sales Representative,12-Jun-2017 12:00:00 AM,35,London,,United Kingdom
+82,110,James,Ross-Hythe,James Ross-Hythe,Level 3 Sales Representative,12-Sep-2016 12:00:00 AM,35,London,,United Kingdom
+83,111,Polly,Linton,Polly Linton,Branch Manager,18-Jun-2015 12:00:00 AM,36,Birmingham,West Midlands,United Kingdom
+84,112,Josef,Lopez,Josef Lopez,Level 1 Sales Representative,02-Jan-2018 12:00:00 AM,36,Birmingham,West Midlands,United Kingdom
+85,113,Keith,Reed,Keith Reed,Level 1 Sales Representative,15-Jun-2018 12:00:00 AM,36,Birmingham,West Midlands,United Kingdom
+86,114,Janet,Walker,Janet Walker,Level 3 Sales Representative,27-Jul-2014 12:00:00 AM,36,Birmingham,West Midlands,United Kingdom
+87,115,Emily,Browne,Emily Browne,Level 2 Sales Representative,20-Jul-2017 12:00:00 AM,36,Birmingham,West Midlands,United Kingdom
+88,116,Susanne,Sommer,Susanne Sommer,Level 2 Sales Representative,17-Jan-2019 12:00:00 AM,37,Zürich,,Switzerland
+89,117,Frank,Jever,Frank Jever,Level 3 Sales Representative,18-Oct-2018 12:00:00 AM,37,Zürich,,Switzerland
+90,118,Gianni,Vertemati,Gianni Vertemati,Level 1 Sales Representative,10-Feb-2019 12:00:00 AM,37,Zürich,,Switzerland
+91,119,Gracy,Gellens,Gracy Gellens,Branch Manager,10-Sep-2018 12:00:00 AM,38,Heverlee,,Belgium
+92,120,Giele,Laermans,Giele Laermans,Level 1 Sales Representative,15-Nov-2018 12:00:00 AM,38,Heverlee,,Belgium
+93,121,François,De Crée,François De Crée,Level 1 Sales Representative,01-Dec-2018 12:00:00 AM,38,Heverlee,,Belgium
+94,122,Yvette,Lattrez,Yvette Lattrez,Level 3 Sales Representative,09-Dec-2018 12:00:00 AM,38,Heverlee,,Belgium
+95,123,Willi,Seefelder,Willi Seefelder,Level 2 Sales Representative,28-Oct-2017 12:00:00 AM,39,Wien,,Austria
+96,124,Sabine,Grüner,Sabine Grüner,Level 3 Sales Representative,18-Feb-2017 12:00:00 AM,39,Wien,,Austria

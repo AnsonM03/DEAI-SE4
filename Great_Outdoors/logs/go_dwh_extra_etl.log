@@ -1,0 +1,39 @@
+2026-06-29 17:06:22|INFO|INIT|logging|READY||Logging gestart
+2026-06-29 17:06:22|INFO|CHECK|GO_DWH|OK||Basis-dimensies aanwezig
+2026-06-29 17:06:22|INFO|RUN||START||Start extra DWH ETL (retouren + cursussen)
+2026-06-29 17:06:22|INFO|CHECK|GO_DWH|OK||Basis-dimensies aanwezig
+2026-06-29 17:06:23|INFO|SCHEMA|extra|CREATE|1|Nieuwe tabellen aangemaakt indien nodig
+2026-06-29 17:06:23|INFO|RESET|facts|DELETE|1|Feittabellen geleegd voor full reload
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|sales_return_reason|READ|5|Gelezen uit SDM
+2026-06-29 17:06:23|INFO|LOAD_SCD2|dim_return_reason|UPSERT|5|nieuw=5, gewijzigd=0
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|staff_course|READ|9|Gelezen uit SDM
+2026-06-29 17:06:23|INFO|LOAD_SCD2|dim_course|UPSERT|9|nieuw=9, gewijzigd=0
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|staff_satisfaction_type|READ|5|Gelezen uit SDM
+2026-06-29 17:06:23|INFO|LOAD_SCD1|dim_satisfaction_type|REPLACE|5|Type-1 dimensie herladen
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|sales_returned_item|READ|690|Gelezen uit SDM
+2026-06-29 17:06:23|INFO|DIM_DATE|dim_date|INSERT_MISSING|81|Retourdatums toegevoegd
+2026-06-29 17:06:23|INFO|LOAD_FACT|fact_returns|INSERT|690|Retouren geladen
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|staff_training|READ|402|Gelezen uit SDM
+2026-06-29 17:06:23|WARNING|LOAD_FACT|fact_training|UNKNOWN_STAFF|29|Trainingen van medewerkers zonder verkooprol (sales_staff_key = NULL)
+2026-06-29 17:06:23|INFO|LOAD_FACT|fact_training|INSERT|402|Trainingen geladen
+2026-06-29 17:06:23|INFO|EXTRACT_SDM|staff_satisfaction|READ|301|Gelezen uit SDM
+2026-06-29 17:06:23|INFO|LOAD_FACT|fact_staff_satisfaction|INSERT|301|Tevredenheid geladen
+2026-06-29 17:06:23|INFO|VIEWS|extra|CREATE|1|Analyse-views aangemaakt
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_return_reason|WRITE|5|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|fact_returns|WRITE|690|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_course|WRITE|9|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_satisfaction_type|WRITE|5|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|fact_training|WRITE|402|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|fact_staff_satisfaction|WRITE|301|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_date|WRITE|1010|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_product|WRITE|116|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_region|WRITE|237|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_customer|WRITE|391|CSV geschreven
+2026-06-29 17:06:23|INFO|EXPORT_CSV|dim_sales_staff|WRITE|96|CSV geschreven
+2026-06-29 17:06:23|INFO|ROWCOUNT|dim_return_reason|COUNT|5|Rijtelling DWH
+2026-06-29 17:06:23|INFO|ROWCOUNT|dim_course|COUNT|9|Rijtelling DWH
+2026-06-29 17:06:23|INFO|ROWCOUNT|dim_satisfaction_type|COUNT|5|Rijtelling DWH
+2026-06-29 17:06:23|INFO|ROWCOUNT|fact_returns|COUNT|690|Rijtelling DWH
+2026-06-29 17:06:23|INFO|ROWCOUNT|fact_training|COUNT|402|Rijtelling DWH
+2026-06-29 17:06:23|INFO|ROWCOUNT|fact_staff_satisfaction|COUNT|301|Rijtelling DWH
+2026-06-29 17:06:23|INFO|RUN||END||Extra DWH ETL klaar

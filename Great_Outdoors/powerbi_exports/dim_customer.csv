@@ -1,0 +1,392 @@
+﻿customer_key,customer_site_bk,customer_bk,customer_master_bk,retailer_name,company_name,customer_type,segment_code,segment_name,city,region,postal_zone,country_code,country,territory_name,active_indicator
+1,1,89,1.0,Rock Steady,Rock Steady,Outdoors Shop,2.0,Outdoors Shop,Winnipeg,Manitoba,R2C 0M5,4,Canada,Americas,1
+2,2,89,1.0,Rock Steady,Rock Steady,Outdoors Shop,2.0,Outdoors Shop,Montréal,Québec,H2T 9K8,4,Canada,Americas,1
+3,3,89,1.0,Rock Steady,Rock Steady,Outdoors Shop,2.0,Outdoors Shop,Fredericton,New Brunswick,E3B 2H2,4,Canada,Americas,1
+4,4,90,2.0,Ultra Sports,Ultra Sports,Sports Store,11.0,Sports Store - Exclusive,Montréal,Québec,H4G 3T4,4,Canada,Americas,1
+5,5,90,2.0,Ultra Sports,Ultra Sports,Sports Store,11.0,Sports Store - Exclusive,Sudbury,Ontario,M5V 1G5,4,Canada,Americas,1
+6,6,90,2.0,Ultra Sports,Ultra Sports,Sports Store,11.0,Sports Store - Exclusive,Tremblant,Québec,H5Y 2S9,4,Canada,Americas,1
+7,7,90,2.0,Ultra Sports,Ultra Sports,Sports Store,11.0,Sports Store - Exclusive,Regina,Saskatchewan,S1J 3C5,4,Canada,Americas,1
+8,8,91,3.0,Mountain Madness,Mountain Madness,Direct Marketing,7.0,Direct Marketing,Whitehorse,Yukon,Y2K 6R0,4,Canada,Americas,1
+9,9,92,4.0,VIP Department Stores,VIP Department Stores,Department Store,4.0,Department Store - Exclusive,Toronto,Ontario,M2M 7K8,4,Canada,Americas,1
+10,10,92,4.0,VIP Department Stores,VIP Department Stores,Department Store,4.0,Department Store - Exclusive,Vancouver,British Columbia,V6E 3Z3,4,Canada,Americas,1
+11,11,92,4.0,VIP Department Stores,VIP Department Stores,Department Store,4.0,Department Store - Exclusive,Vancouver,British Columbia,V1E 4R6,4,Canada,Americas,1
+12,12,92,4.0,VIP Department Stores,VIP Department Stores,Department Store,4.0,Department Store - Exclusive,Vancouver,British Columbia,V5R 1W3,4,Canada,Americas,1
+13,13,92,4.0,VIP Department Stores,VIP Department Stores,Department Store,4.0,Department Store - Exclusive,Montréal,Québec,H2T 2J6,4,Canada,Americas,1
+14,14,93,8.0,Le Golfeur,Le Golfeur,Golf Shop,3.0,Golf Shop,Montréal,Québec,H2Y 2W2,4,Canada,Americas,1
+15,15,94,,Sunglass Corner,Sunglass Corner,Eyewear Store,,,Victoria,British Columbia,V10 6T5,4,Canada,Americas,1
+16,16,94,,Sunglass Corner,Sunglass Corner,Eyewear Store,,,Hull,Québec,J8Y 3Z5,4,Canada,Americas,0
+17,17,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Montréal,Québec,H3T 8L4,4,Canada,Americas,1
+18,18,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Toronto,Ontario,M1R 4K3,4,Canada,Americas,1
+19,19,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Ottawa,Ontario,K1G 4Z0,4,Canada,Americas,1
+20,20,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Halifax,Nova Scotia,B3J 9S2,4,Canada,Americas,1
+21,21,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Dawson Creek,British Columbia,U5I 4F1,4,Canada,Americas,1
+22,22,96,6.0,Maximum Sports,Maximum Sports,Sports Store,12.0,Sports Store,Toronto,Ontario,M8Y 4K8,4,Canada,Americas,1
+23,23,96,6.0,Maximum Sports,Maximum Sports,Sports Store,12.0,Sports Store,Montréal,Québec,H2Y 4R4,4,Canada,Americas,1
+24,24,96,6.0,Maximum Sports,Maximum Sports,Sports Store,12.0,Sports Store,Toronto,Ontario,M2Z 4K1,4,Canada,Americas,1
+25,25,96,6.0,Maximum Sports,Maximum Sports,Sports Store,12.0,Sports Store,Ottawa,Ontario,K1F 2R2,4,Canada,Americas,1
+26,26,96,6.0,Maximum Sports,Maximum Sports,Sports Store,12.0,Sports Store,St. John's,Newfoundland,A1C 6H9,4,Canada,Americas,1
+27,27,97,7.0,Act'N'Up Fitness,Act'N'Up Fitness,Warehouse Store,8.0,Warehouse Store,Toronto,Ontario,M2P 4F6,4,Canada,Americas,1
+28,28,97,7.0,Act'N'Up Fitness,Act'N'Up Fitness,Warehouse Store,8.0,Warehouse Store,Winnipeg,Manitoba,R6Y 4T5,4,Canada,Americas,1
+29,29,97,7.0,Act'N'Up Fitness,Act'N'Up Fitness,Warehouse Store,8.0,Warehouse Store,Toronto,Ontario,M2M 6J7,4,Canada,Americas,1
+30,30,97,7.0,Act'N'Up Fitness,Act'N'Up Fitness,Warehouse Store,8.0,Warehouse Store,Toronto,Ontario,M3R 4K8,4,Canada,Americas,1
+31,31,98,,Advanced Climbing Ltd,Advanced Climbing Ltd,Equipment Rental Store,,,Charlottetown,Prince Edward Island,C1A 6E8,4,Canada,Americas,0
+32,32,44,,Die Fitness-Experten,Die Fitness-Experten,Direct Marketing,,,Frankfurt,Hessen,D-60314,2,Germany,Central Europe,1
+33,33,47,23.0,Der Fitness-Doktor,Der Fitness-Doktor,Sports Store,12.0,Sports Store,Berlin,Berlin,D-12051,2,Germany,Central Europe,1
+34,34,47,23.0,Der Fitness-Doktor,Der Fitness-Doktor,Sports Store,12.0,Sports Store,Bonn,Nordrhein-Westfalen,D-53225,2,Germany,Central Europe,1
+35,35,47,23.0,Der Fitness-Doktor,Der Fitness-Doktor,Sports Store,12.0,Sports Store,Hamburg,Hamburg,D-22609,2,Germany,Central Europe,1
+36,36,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Berlin,Berlin,D-14109,2,Germany,Central Europe,1
+37,37,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Dresden,Sachsen,D-01219,2,Germany,Central Europe,0
+38,38,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Düsseldorf,Nordrhein-Westfalen,D-40595,2,Germany,Central Europe,1
+39,39,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Frankfurt,Hessen,D-65989,2,Germany,Central Europe,1
+40,40,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Hamburg,Hamburg,D-20539,2,Germany,Central Europe,1
+41,41,48,24.0,Sport & Freizeit,Sport & Freizeit,Department Store,5.0,Department Store,Mannheim,Baden-Württemberg,D-68165,2,Germany,Central Europe,1
+42,42,49,25.0,Holstein Golf,Holstein Golf,Golf Shop,3.0,Golf Shop,Berlin,Berlin,D-12527,2,Germany,Central Europe,1
+43,43,49,25.0,Holstein Golf,Holstein Golf,Golf Shop,3.0,Golf Shop,Mainz,Rheinland-Pfalz,D-55131,2,Germany,Central Europe,1
+44,44,49,25.0,Holstein Golf,Holstein Golf,Golf Shop,3.0,Golf Shop,Frankfurt,Hessen,D-60528,2,Germany,Central Europe,1
+45,45,49,25.0,Holstein Golf,Holstein Golf,Golf Shop,3.0,Golf Shop,Frankfurt,Hessen,D-60433,2,Germany,Central Europe,1
+46,46,49,25.0,Holstein Golf,Holstein Golf,Golf Shop,3.0,Golf Shop,Hannover,Niedersachsen,D-30629,2,Germany,Central Europe,1
+47,47,50,26.0,Die Zeltstadt,Die Zeltstadt,Warehouse Store,8.0,Warehouse Store,Berlin,Berlin,D-10711,2,Germany,Central Europe,1
+48,48,50,26.0,Die Zeltstadt,Die Zeltstadt,Warehouse Store,8.0,Warehouse Store,Kiel,Schleswig-Holstein,D-24113,2,Germany,Central Europe,1
+49,49,50,26.0,Die Zeltstadt,Die Zeltstadt,Warehouse Store,8.0,Warehouse Store,Schwerin,Mecklenburg-Vorpommern,D-19063,2,Germany,Central Europe,1
+50,50,50,26.0,Die Zeltstadt,Die Zeltstadt,Warehouse Store,8.0,Warehouse Store,Frankfurt,Hessen,D-60386,2,Germany,Central Europe,1
+51,51,50,26.0,Die Zeltstadt,Die Zeltstadt,Warehouse Store,8.0,Warehouse Store,Potsdam,Brandenburg,D-14482,2,Germany,Central Europe,1
+52,52,51,,Extrem!,Extrem!,Outdoors Shop,,,Bonn,Nordrhein-Westfalen,D-53121,2,Germany,Central Europe,1
+53,53,51,,Extrem!,Extrem!,Outdoors Shop,,,Bremen,Bremen,D-28759,2,Germany,Central Europe,1
+54,54,51,,Extrem!,Extrem!,Outdoors Shop,,,Frankfurt,Hessen,D-60320,2,Germany,Central Europe,1
+55,55,51,,Extrem!,Extrem!,Outdoors Shop,,,Hamburg,Hamburg,D-21037,2,Germany,Central Europe,1
+56,56,54,27.0,In die Berge!,In die Berge!,Outdoors Shop,2.0,Outdoors Shop,Frankfurt,Hessen,D-60219,2,Germany,Central Europe,1
+57,57,54,27.0,In die Berge!,In die Berge!,Outdoors Shop,2.0,Outdoors Shop,Saarbrücken,Saarland,D-66115,2,Germany,Central Europe,1
+58,58,54,27.0,In die Berge!,In die Berge!,Outdoors Shop,2.0,Outdoors Shop,Freiburg,Baden-Württemberg,D-79102,2,Germany,Central Europe,1
+59,59,54,27.0,In die Berge!,In die Berge!,Outdoors Shop,2.0,Outdoors Shop,Erfurt,Thüringen,D-99089,2,Germany,Central Europe,1
+60,60,57,45.0,Rad und Tat,Rad und Tat,Direct Marketing,6.0,Direct Marketing - Exclusive,Hamburg,Hamburg,D-22335,2,Germany,Central Europe,0
+61,61,58,28.0,Weitblick,Weitblick,Eyewear Store,10.0,Eyewear Store,Bremen,Bremen,D-28237,2,Germany,Central Europe,1
+62,62,58,28.0,Weitblick,Weitblick,Eyewear Store,10.0,Eyewear Store,München,Bayern,D-80800,2,Germany,Central Europe,1
+63,63,47,23.0,Der Fitness-Doktor,Der Fitness-Doktor,Sports Store,12.0,Sports Store,Magdeburg,Sachsen-Anhalt,D-39116,2,Germany,Central Europe,1
+64,67,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,Hartford,Connecticut,06134-0615,3,United States,Americas,1
+65,68,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,Atlanta,Georgia,30364,3,United States,Americas,1
+66,69,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,Baltimore,Maryland,21287,3,United States,Americas,1
+67,70,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,Boston,Massachusetts,02142,3,United States,Americas,1
+68,71,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,Buffalo,New York,14169,3,United States,Americas,1
+69,72,99,69.0,Outdoor Gear Co-op,Outdoor Gear Co-op,Warehouse Store,8.0,Warehouse Store,New York,New York,10035,3,United States,Americas,1
+70,73,100,70.0,Golf Masters,Golf Masters,Golf Shop,3.0,Golf Shop,Billings,Montana,59102,3,United States,Americas,1
+71,74,100,70.0,Golf Masters,Golf Masters,Golf Shop,3.0,Golf Shop,Lincoln,Nebraska,68538,3,United States,Americas,1
+72,75,101,71.0,The Marketplace,The Marketplace,Department Store,5.0,Department Store,New York,New York,10039,3,United States,Americas,1
+73,76,101,71.0,The Marketplace,The Marketplace,Department Store,5.0,Department Store,New York,New York,10021,3,United States,Americas,1
+74,77,101,71.0,The Marketplace,The Marketplace,Department Store,5.0,Department Store,New York,New York,10053,3,United States,Americas,1
+75,78,101,71.0,The Marketplace,The Marketplace,Department Store,5.0,Department Store,Cincinnati,Ohio,45265,3,United States,Americas,1
+76,79,101,71.0,The Marketplace,The Marketplace,Department Store,5.0,Department Store,Providence,Rhode Island,02967,3,United States,Americas,1
+77,80,102,72.0,Camping Equipment Online,Camping Equipment Online,Direct Marketing,7.0,Direct Marketing,Hanover,New Hampshire,03761,3,United States,Americas,1
+78,81,103,73.0,Tamarack Outfitter Rentals,Tamarack Outfitter Rentals,Equipment Rental Store,9.0,Equipment Rental Store,Springfield,Missouri,65856,3,United States,Americas,1
+79,82,103,73.0,Tamarack Outfitter Rentals,Tamarack Outfitter Rentals,Equipment Rental Store,9.0,Equipment Rental Store,Bismark,North Dakota,58537,3,United States,Americas,1
+80,83,103,73.0,Tamarack Outfitter Rentals,Tamarack Outfitter Rentals,Equipment Rental Store,9.0,Equipment Rental Store,Portland,Oregon,97295,3,United States,Americas,1
+81,84,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Carson City,Nevada,89763,3,United States,Americas,1
+82,85,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Las Vegas,Nevada,89118,3,United States,Americas,1
+83,86,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Oklahoma City,Oklahoma,73186,3,United States,Americas,1
+84,87,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Chattanooga,Tennessee,37405-0955,3,United States,Americas,1
+85,88,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Houston,Texas,77112,3,United States,Americas,1
+86,89,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Alexandria,Virginia,22323,3,United States,Americas,1
+87,90,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Seattle,Washington,98154,3,United States,Americas,1
+88,91,104,74.0,Extreme Outdoors,Extreme Outdoors,Outdoors Shop,2.0,Outdoors Shop,Charleston,West Virginia,25301-1299,3,United States,Americas,1
+89,92,105,75.0,Eye Dimensions,Eye Dimensions,Eyewear Store,10.0,Eyewear Store,Miami,Florida,33021,3,United States,Americas,0
+90,93,105,75.0,Eye Dimensions,Eye Dimensions,Eyewear Store,10.0,Eyewear Store,Atlanta,Georgia,30352,3,United States,Americas,1
+91,94,105,75.0,Eye Dimensions,Eye Dimensions,Eyewear Store,10.0,Eyewear Store,Dallas,Texas,75293,3,United States,Americas,1
+92,95,106,76.0,Donovan's Sports,Donovan's Sports,Sports Store,12.0,Sports Store,Los Angeles,California,90211,3,United States,Americas,1
+93,96,106,76.0,Donovan's Sports,Donovan's Sports,Sports Store,12.0,Sports Store,Los Angeles,California,90203,3,United States,Americas,1
+94,97,106,76.0,Donovan's Sports,Donovan's Sports,Sports Store,12.0,Sports Store,San Diego,California,92132,3,United States,Americas,1
+95,98,106,76.0,Donovan's Sports,Donovan's Sports,Sports Store,12.0,Sports Store,San Francisco,California,94135,3,United States,Americas,1
+96,99,106,76.0,Donovan's Sports,Donovan's Sports,Sports Store,12.0,Sports Store,San Francisco,California,94129,3,United States,Americas,1
+97,100,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Albuquerque,New Mexico,87186,3,United States,Americas,1
+98,101,95,5.0,Falcon Outfitters,Falcon Outfitters,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Austin,Texas,78769,3,United States,Americas,1
+99,102,108,78.0,Trail Masters,Trail Masters,Outdoors Shop,2.0,Outdoors Shop,Independence,Kentucky,41051,3,United States,Americas,0
+100,103,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,San Francisco,California,94127,3,United States,Americas,1
+101,104,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,Albany,New York,12210,3,United States,Americas,1
+102,105,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,New York,New York,10044,3,United States,Americas,1
+103,106,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,New York,New York,10041,3,United States,Americas,1
+104,107,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,Dallas,Texas,75287,3,United States,Americas,1
+105,108,109,79.0,Second Wind Sports,Second Wind Sports,Sports Store,12.0,Sports Store,Salt Lake City,Utah,84146,3,United States,Americas,1
+106,109,110,80.0,The Golf Hut,The Golf Hut,Golf Shop,3.0,Golf Shop,Chapel Hill,North Carolina,27533,3,United States,Americas,1
+107,110,110,80.0,The Golf Hut,The Golf Hut,Golf Shop,3.0,Golf Shop,Charleston,South Carolina,29414,3,United States,Americas,1
+108,111,111,81.0,Buena Vista Eyeware,Buena Vista Eyeware,Eyewear Store,10.0,Eyewear Store,Phoenix,Arizona,85052,3,United States,Americas,1
+109,112,111,81.0,Buena Vista Eyeware,Buena Vista Eyeware,Eyewear Store,10.0,Eyewear Store,San Francisco,California,94133,3,United States,Americas,1
+110,113,112,,Jack and Jill Climbing School & Supplies,Jack and Jill Climbing School & Supplies,Outdoors Shop,,,Boulder,Colorado,80332,3,United States,Americas,1
+111,114,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Houston,Texas,77009,3,United States,Americas,1
+112,115,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Montpelier,Vermont,05611,3,United States,Americas,1
+113,116,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Richmond,Virginia,23234,3,United States,Americas,1
+114,117,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Seattle,Washington,98140,3,United States,Americas,1
+115,118,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Madison,Wisconsin,53722,3,United States,Americas,1
+116,119,113,82.0,Edward's Department Store,Edward's Department Store,Department Store,5.0,Department Store,Casper,Wyoming,82645,3,United States,Americas,1
+117,120,114,,Parkland Camping Rentals,Parkland Camping Rentals,Equipment Rental Store,,,Dover,Delaware,19935,3,United States,Americas,0
+118,121,114,,Parkland Camping Rentals,Parkland Camping Rentals,Equipment Rental Store,,,Jacksonville,Florida,32287,3,United States,Americas,1
+119,122,114,,Parkland Camping Rentals,Parkland Camping Rentals,Equipment Rental Store,,,Miami,Florida,33025,3,United States,Americas,1
+120,123,114,,Parkland Camping Rentals,Parkland Camping Rentals,Equipment Rental Store,,,Atlanta,Georgia,30371,3,United States,Americas,1
+121,124,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,Los Angeles,California,90060,3,United States,Americas,1
+122,125,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,San Diego,California,92120,3,United States,Americas,1
+123,126,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,Denver,Colorado,80287,3,United States,Americas,1
+124,127,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,Washington,DC,20032,3,United States,Americas,1
+125,128,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,Miami,Florida,33024,3,United States,Americas,1
+126,129,115,83.0,Consumer Club,Consumer Club,Warehouse Store,8.0,Warehouse Store,Atlanta,Georgia,30367,3,United States,Americas,1
+127,130,116,84.0,Connor Department Store,Connor Department Store,Department Store,5.0,Department Store,Birmingham,Alabama,35215,3,United States,Americas,1
+128,131,116,84.0,Connor Department Store,Connor Department Store,Department Store,5.0,Department Store,Boston,Massachusetts,02141,3,United States,Americas,1
+129,132,116,84.0,Connor Department Store,Connor Department Store,Department Store,5.0,Department Store,Boston,Massachusetts,02139,3,United States,Americas,1
+130,133,116,84.0,Connor Department Store,Connor Department Store,Department Store,5.0,Department Store,Jackson,Mississippi,39286,3,United States,Americas,1
+131,134,116,84.0,Connor Department Store,Connor Department Store,Department Store,5.0,Department Store,Lake Placid,New York,12976,3,United States,Americas,1
+132,135,117,85.0,By A Thread,By A Thread,Outdoors Shop,2.0,Outdoors Shop,Boulder,Colorado,80341,3,United States,Americas,1
+133,136,117,85.0,By A Thread,By A Thread,Outdoors Shop,2.0,Outdoors Shop,Denver,Colorado,80289,3,United States,Americas,1
+134,137,117,85.0,By A Thread,By A Thread,Outdoors Shop,2.0,Outdoors Shop,Salt Lake City,Utah,84147,3,United States,Americas,1
+135,138,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Phoenix,Arizona,85055,3,United States,Americas,1
+136,139,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Tucson,Arizona,85713,3,United States,Americas,1
+137,140,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Little Rock,Arkansas,72287,3,United States,Americas,1
+138,141,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Anaheim,California,92815,3,United States,Americas,0
+139,142,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Los Angeles,California,90045,3,United States,Americas,1
+140,143,118,86.0,Hartman's,Hartman's,Department Store,5.0,Department Store,Las Vegas,Nevada,89123,3,United States,Americas,1
+141,144,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Boise,Idaho,83718,3,United States,Americas,1
+142,145,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Chicago,Illinois,60652,3,United States,Americas,1
+143,146,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Indianapolis,Indiana,46240-2015,3,United States,Americas,1
+144,147,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Detroit,Michigan,48296,3,United States,Americas,1
+145,148,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Duluth,Minnesota,55810,3,United States,Americas,1
+146,149,119,87.0,Mega-Outlet,Mega-Outlet,Warehouse Store,8.0,Warehouse Store,Rapid City,South Dakota,57739,3,United States,Americas,1
+147,150,120,,Pumped!,Pumped!,Sports Store,,,Anchorage,Alaska,99534,3,United States,Americas,1
+148,151,121,88.0,The Caddy's Corner,The Caddy's Corner,Golf Shop,3.0,Golf Shop,Honolulu,Hawaii,96857,3,United States,Americas,1
+149,152,122,,Up The Creek,Up The Creek,Equipment Rental Store,,,San Diego,California,92112,3,United States,Americas,1
+150,153,122,,Up The Creek,Up The Creek,Equipment Rental Store,,,Boulder,Colorado,80331,3,United States,Americas,1
+151,154,122,,Up The Creek,Up The Creek,Equipment Rental Store,,,Denver,Colorado,80288,3,United States,Americas,1
+152,155,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Cedar Rapids,Iowa,52421,3,United States,Americas,1
+153,156,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Topeka,Kansas,66703,3,United States,Americas,1
+154,157,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Portland,Maine,04112,3,United States,Americas,1
+155,158,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Boston,Massachusetts,02187,3,United States,Americas,1
+156,159,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Atlantic City,New Jersey,08401-6399,3,United States,Americas,1
+157,160,123,89.0,American Home,American Home,Department Store,5.0,Department Store,New York,New York,10027,3,United States,Americas,1
+158,161,123,89.0,American Home,American Home,Department Store,5.0,Department Store,New York,New York,10037,3,United States,Americas,1
+159,162,123,89.0,American Home,American Home,Department Store,5.0,Department Store,New York,New York,10035,3,United States,Americas,1
+160,163,123,89.0,American Home,American Home,Department Store,5.0,Department Store,Philadelphia,Pennsylvania,19176,3,United States,Americas,1
+161,164,124,90.0,Weston Outfitters,Weston Outfitters,Outdoors Shop,2.0,Outdoors Shop,San Diego,California,92129,3,United States,Americas,1
+162,165,124,90.0,Weston Outfitters,Weston Outfitters,Outdoors Shop,2.0,Outdoors Shop,Boulder,Colorado,80339,3,United States,Americas,1
+163,166,124,90.0,Weston Outfitters,Weston Outfitters,Outdoors Shop,2.0,Outdoors Shop,Denver,Colorado,80279,3,United States,Americas,1
+164,167,124,90.0,Weston Outfitters,Weston Outfitters,Outdoors Shop,2.0,Outdoors Shop,Baton Rouge,Louisiana,70895-5492,3,United States,Americas,1
+165,195,1,,ActiForme,ActiForme,Equipment Rental Store,,,Paris,,F-75004,1,France,Central Europe,1
+166,196,1,,ActiForme,ActiForme,Equipment Rental Store,,,Paris,,F-75004,1,France,Central Europe,1
+167,197,1,,ActiForme,ActiForme,Equipment Rental Store,,,Strasbourg,,F-67000,1,France,Central Europe,1
+168,198,15,234.0,SportsClub,SportsClub,Golf Shop,3.0,Golf Shop,Lyon,,F-69005,1,France,Central Europe,1
+169,199,15,234.0,SportsClub,SportsClub,Golf Shop,3.0,Golf Shop,Nice,,F-06200,1,France,Central Europe,1
+170,200,23,229.0,Anapurna,Anapurna,Direct Marketing,7.0,Direct Marketing,Orléans,,F-45000,1,France,Central Europe,1
+171,201,32,230.0,Cordages Discount,Cordages Discount,Warehouse Store,8.0,Warehouse Store,Lyon,,F-69002,1,France,Central Europe,1
+172,202,32,230.0,Cordages Discount,Cordages Discount,Warehouse Store,8.0,Warehouse Store,Nice,,F-6300,1,France,Central Europe,1
+173,203,32,230.0,Cordages Discount,Cordages Discount,Warehouse Store,8.0,Warehouse Store,Paris,,F-75003,1,France,Central Europe,1
+174,204,32,230.0,Cordages Discount,Cordages Discount,Warehouse Store,8.0,Warehouse Store,Paris,,F-75015,1,France,Central Europe,1
+175,205,33,228.0,Altitudes extrÛmes,Altitudes extrêmes,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Bordeaux,,F-33000,1,France,Central Europe,1
+176,206,33,228.0,Altitudes extrÛmes,Altitudes extrêmes,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Chamonix,,F-74400,1,France,Central Europe,1
+177,207,33,228.0,Altitudes extrÛmes,Altitudes extrêmes,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Poitiers,,F-86000,1,France,Central Europe,1
+178,208,33,228.0,Altitudes extrÛmes,Altitudes extrêmes,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Roubaix,,F-59020,1,France,Central Europe,1
+179,209,34,,Optique et Lentilles,Optique et Lentilles,Eyewear Store,,,Grenoble,,F-38000,1,France,Central Europe,1
+180,210,35,231.0,Camping Sauvage,Camping Sauvage,Outdoors Shop,2.0,Outdoors Shop,Annecy,,F-74000,1,France,Central Europe,1
+181,211,35,231.0,Camping Sauvage,Camping Sauvage,Outdoors Shop,2.0,Outdoors Shop,Bordeaux,,F-33001,1,France,Central Europe,1
+182,212,35,231.0,Camping Sauvage,Camping Sauvage,Outdoors Shop,2.0,Outdoors Shop,Lyon,,F-69002,1,France,Central Europe,1
+183,213,35,231.0,Camping Sauvage,Camping Sauvage,Outdoors Shop,2.0,Outdoors Shop,Paris,,F-75018,1,France,Central Europe,1
+184,214,35,231.0,Camping Sauvage,Camping Sauvage,Outdoors Shop,2.0,Outdoors Shop,Roubaix,,F-59100,1,France,Central Europe,1
+185,215,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Nantes,,F-44000,1,France,Central Europe,1
+186,216,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Paris,,F-75020,1,France,Central Europe,1
+187,217,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Strasbourg,,F-67100,1,France,Central Europe,1
+188,218,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Tours,,F-37020,1,France,Central Europe,1
+189,219,125,233.0,La bonne Forme,La bonne Forme,Sports Store,11.0,Sports Store - Exclusive,Marseille,,F-13023,1,France,Central Europe,1
+190,220,125,233.0,La bonne Forme,La bonne Forme,Sports Store,11.0,Sports Store - Exclusive,Nice,,F-6300,1,France,Central Europe,1
+191,221,125,233.0,La bonne Forme,La bonne Forme,Sports Store,11.0,Sports Store - Exclusive,Orléans,,F-45100,1,France,Central Europe,1
+192,222,125,233.0,La bonne Forme,La bonne Forme,Sports Store,11.0,Sports Store - Exclusive,Paris,,F-75007,1,France,Central Europe,1
+193,223,125,233.0,La bonne Forme,La bonne Forme,Sports Store,11.0,Sports Store - Exclusive,Paris,,F-75020,1,France,Central Europe,1
+194,224,126,91.0,"ArtÝculos de Campismo El Aquila, S.A. de C.V.","Artículos de Campismo El Aquila, S.A. de C.V.",Outdoors Shop,2.0,Outdoors Shop,Cancún,Quintana Roo,90890,20,Mexico,Americas,1
+195,225,126,91.0,"ArtÝculos de Campismo El Aquila, S.A. de C.V.","Artículos de Campismo El Aquila, S.A. de C.V.",Outdoors Shop,2.0,Outdoors Shop,Distrito Federal,México,08500,20,Mexico,Americas,1
+196,226,126,91.0,"ArtÝculos de Campismo El Aquila, S.A. de C.V.","Artículos de Campismo El Aquila, S.A. de C.V.",Outdoors Shop,2.0,Outdoors Shop,Distrito Federal,México,06700,20,Mexico,Americas,1
+197,227,126,91.0,"ArtÝculos de Campismo El Aquila, S.A. de C.V.","Artículos de Campismo El Aquila, S.A. de C.V.",Outdoors Shop,2.0,Outdoors Shop,Guadalajara,Jalisco,80480,20,Mexico,Americas,1
+198,228,126,91.0,"ArtÝculos de Campismo El Aquila, S.A. de C.V.","Artículos de Campismo El Aquila, S.A. de C.V.",Outdoors Shop,2.0,Outdoors Shop,Puerto Vallarta,Jalisco,70760,20,Mexico,Americas,1
+199,229,127,92.0,"Todo para el Golf, S.A. de C.V.","Todo para el Golf, S.A. de C.V.",Golf Shop,3.0,Golf Shop,Monterey,Nuevo León,30530,20,Mexico,Americas,1
+200,230,128,93.0,"MER-KA-DOS, S.A. de C.V.","MER-KA-DOS, S.A. de C.V.",Department Store,5.0,Department Store,Distrito Federal,México,06500,20,Mexico,Americas,1
+201,231,128,93.0,"MER-KA-DOS, S.A. de C.V.","MER-KA-DOS, S.A. de C.V.",Department Store,5.0,Department Store,Distrito Federal,México,06760,20,Mexico,Americas,1
+202,232,128,93.0,"MER-KA-DOS, S.A. de C.V.","MER-KA-DOS, S.A. de C.V.",Department Store,5.0,Department Store,Distrito Federal,México,14320,20,Mexico,Americas,1
+203,233,128,93.0,"MER-KA-DOS, S.A. de C.V.","MER-KA-DOS, S.A. de C.V.",Department Store,5.0,Department Store,México City,México,54060,20,Mexico,Americas,1
+204,235,129,235.0,Golf Shop Jiro,Golf Shop Jiro,Golf Shop,3.0,Golf Shop,Osaka-shi,Osaka,554-0005,11,Japan,Asia Pacific,1
+205,236,136,240.0,NIPPON Sofcon Net,NIPPON Sofcon Net,Direct Marketing,7.0,Direct Marketing,Hiroshima-shi,Hiroshima,730-0048,11,Japan,Asia Pacific,1
+206,237,131,237.0,Hinode Megane,Hinode Megane,Eyewear Store,10.0,Eyewear Store,Tokyo,Tokyo,135-0030,11,Japan,Asia Pacific,1
+207,238,131,237.0,Hinode Megane,Hinode Megane,Eyewear Store,10.0,Eyewear Store,Tokyo,Tokyo,101-0052,11,Japan,Asia Pacific,1
+208,239,135,,Chuei Hyakkaten,Chuei Hyakkaten,Department Store,,,Osaka-shi,Osaka,544-0009,11,Japan,Asia Pacific,1
+209,240,129,235.0,Golf Shop Jiro,Golf Shop Jiro,Golf Shop,3.0,Golf Shop,Sendai-shi,Miyagi,983-0013,11,Japan,Asia Pacific,0
+210,241,129,235.0,Golf Shop Jiro,Golf Shop Jiro,Golf Shop,3.0,Golf Shop,Fukuoka-shi,Fukuoka,812-0027,11,Japan,Asia Pacific,1
+211,242,130,236.0,Japan Sports Youhinten,Japan Sports Youhinten,Sports Store,12.0,Sports Store,Tokyo,Tokyo,170-0013,11,Japan,Asia Pacific,1
+212,243,134,239.0,Kanjosen Sport,Kanjosen Sport,Sports Store,11.0,Sports Store - Exclusive,Tokyo,Tokyo,101-0026,11,Japan,Asia Pacific,1
+213,244,129,235.0,Golf Shop Jiro,Golf Shop Jiro,Golf Shop,3.0,Golf Shop,Hiroshima-shi,Hiroshima,730-0000,11,Japan,Asia Pacific,0
+214,245,130,236.0,Japan Sports Youhinten,Japan Sports Youhinten,Sports Store,12.0,Sports Store,Hiroshima-shi,Hiroshima,731-0202,11,Japan,Asia Pacific,1
+215,246,130,236.0,Japan Sports Youhinten,Japan Sports Youhinten,Sports Store,12.0,Sports Store,Hiroshima-shi,Hiroshima,734-0000,11,Japan,Asia Pacific,1
+216,247,130,236.0,Japan Sports Youhinten,Japan Sports Youhinten,Sports Store,12.0,Sports Store,Tokyo,Tokyo,150-0004,11,Japan,Asia Pacific,1
+217,248,132,238.0,Hanagata Golf Shop,Hanagata Golf Shop,Golf Shop,3.0,Golf Shop,Fukuoka-shi,Fukuoka,810-0001,11,Japan,Asia Pacific,1
+218,249,132,238.0,Hanagata Golf Shop,Hanagata Golf Shop,Golf Shop,3.0,Golf Shop,Osaka-shi,Osaka,553-0003,11,Japan,Asia Pacific,1
+219,250,132,238.0,Hanagata Golf Shop,Hanagata Golf Shop,Golf Shop,3.0,Golf Shop,Tokyo,Tokyo,164-0001,11,Japan,Asia Pacific,1
+220,251,132,238.0,Hanagata Golf Shop,Hanagata Golf Shop,Golf Shop,3.0,Golf Shop,Tokyo,Tokyo,113-0033,11,Japan,Asia Pacific,1
+221,252,132,238.0,Hanagata Golf Shop,Hanagata Golf Shop,Golf Shop,3.0,Golf Shop,Tokyo,Tokyo,101-0021,11,Japan,Asia Pacific,1
+222,253,133,,Kitanaka Tozanyouhinten,Kitanaka Tozanyouhinten,Equipment Rental Store,,,Fukuoka-shi,Fukuoka,819-0000,11,Japan,Asia Pacific,1
+223,254,133,,Kitanaka Tozanyouhinten,Kitanaka Tozanyouhinten,Equipment Rental Store,,,Sendai-shi,Miyagi,982-0875,11,Japan,Asia Pacific,1
+224,255,133,,Kitanaka Tozanyouhinten,Kitanaka Tozanyouhinten,Equipment Rental Store,,,Tokyo,Tokyo,150-0003,11,Japan,Asia Pacific,1
+225,256,134,239.0,Kanjosen Sport,Kanjosen Sport,Sports Store,11.0,Sports Store - Exclusive,Osaka-shi,Osaka,534-0014,11,Japan,Asia Pacific,1
+226,257,134,239.0,Kanjosen Sport,Kanjosen Sport,Sports Store,11.0,Sports Store - Exclusive,Osaka-shi,Osaka,530-0000,11,Japan,Asia Pacific,1
+227,258,134,239.0,Kanjosen Sport,Kanjosen Sport,Sports Store,11.0,Sports Store - Exclusive,Hiroshima-shi,Hiroshima,730-0013,11,Japan,Asia Pacific,1
+228,259,134,239.0,Kanjosen Sport,Kanjosen Sport,Sports Store,11.0,Sports Store - Exclusive,Osaka-shi,Osaka,556-0025,11,Japan,Asia Pacific,1
+229,260,137,625.0,Campingspecialisten,Campingspecialisten,Outdoors Shop,2.0,Outdoors Shop,Stockholm,,S-114 57,10,Sweden,Northern Europe,1
+230,261,137,625.0,Campingspecialisten,Campingspecialisten,Outdoors Shop,2.0,Outdoors Shop,Arvika,,S-541 10,10,Sweden,Northern Europe,1
+231,262,137,625.0,Campingspecialisten,Campingspecialisten,Outdoors Shop,2.0,Outdoors Shop,Karlstad,,S-335 20,10,Sweden,Northern Europe,1
+232,263,137,625.0,Campingspecialisten,Campingspecialisten,Outdoors Shop,2.0,Outdoors Shop,Ludvika,,S-665 00,10,Sweden,Northern Europe,1
+233,264,137,625.0,Campingspecialisten,Campingspecialisten,Outdoors Shop,2.0,Outdoors Shop,Sundsvall,,S-668 90,10,Sweden,Northern Europe,1
+234,265,138,616.0,Sport Jonas,Sport Jonas,Sports Store,11.0,Sports Store - Exclusive,Bollnäs,,S-335 85,10,Sweden,Northern Europe,1
+235,266,138,616.0,Sport Jonas,Sport Jonas,Sports Store,11.0,Sports Store - Exclusive,Malmö,,S-115 55,10,Sweden,Northern Europe,1
+236,267,138,616.0,Sport Jonas,Sport Jonas,Sports Store,11.0,Sports Store - Exclusive,Göteborg,,S-411 10,10,Sweden,Northern Europe,1
+237,268,138,616.0,Sport Jonas,Sport Jonas,Sports Store,11.0,Sports Store - Exclusive,Solna,,S-118 30,10,Sweden,Northern Europe,1
+238,269,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Stockholm,,S-113 54,10,Sweden,Northern Europe,1
+239,270,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Malmö,,S-225 11,10,Sweden,Northern Europe,1
+240,271,140,,T & R Sport,T & R Sport,Direct Marketing,,,Mölndal,,S-422 67,10,Sweden,Northern Europe,1
+241,272,141,,Sportworld,,,,,Beets,,1475 JC,7,Netherlands,,1
+242,273,141,,Sportworld,,,,,Deventer,,7412 BV,7,Netherlands,,1
+243,274,141,,Sportworld,,,,,Den Haag,,2564 AV,7,Netherlands,,1
+244,275,141,,Sportworld,,,,,Amstelveen,,1181 BN,7,Netherlands,,1
+245,276,141,,Sportworld,,,,,Amstelveen,,1185 XP,7,Netherlands,,1
+246,277,142,,Topforma,,,,,Groningen,,9716 JE,7,Netherlands,,1
+247,278,143,,Get Out,,,,,Amsterdam,,1000 BA,7,Netherlands,,1
+248,279,143,,Get Out,,,,,Varsseveld,,7051 CH,7,Netherlands,,1
+249,280,144,,Holland Zonzoekers,,,,,Amsterdam,,1014 BD,7,Netherlands,,1
+250,281,144,,Holland Zonzoekers,,,,,Muiden,,1398 BB,7,Netherlands,,1
+251,282,144,,Holland Zonzoekers,,,,,Laren,,1251 VC,7,Netherlands,,1
+252,283,144,,Holland Zonzoekers,,,,,Pieterburen,,9968 AH,7,Netherlands,,1
+253,284,145,,Beter Buitenleven,,,,,Laren,,7245 VS,7,Netherlands,,1
+254,285,145,,Beter Buitenleven,,,,,Maarssen,,3604 AA,7,Netherlands,,1
+255,286,145,,Beter Buitenleven,,,,,Amsterdam,,1018 DE,7,Netherlands,,1
+256,287,145,,Beter Buitenleven,,,,,Amsterdam,,1062 XC,7,Netherlands,,1
+257,288,145,,Beter Buitenleven,,,,,Marken,,1156 AL,7,Netherlands,,1
+258,289,146,,Extra Sport,,,,,Wageningen,,6701 AP,7,Netherlands,,1
+259,290,146,,Extra Sport,,,,,Nieuweschans,,9693 EE,7,Netherlands,,1
+260,291,146,,Extra Sport,,,,,Rotterdam,,3051 HG,7,Netherlands,,1
+261,304,147,485.0,NonSoloNeve,NonSoloNeve,Sports Store,11.0,Sports Store - Exclusive,Bologna,,I-40101,6,Italy,Southern Europe,1
+262,305,147,485.0,NonSoloNeve,NonSoloNeve,Sports Store,11.0,Sports Store - Exclusive,Bergamo,,I-24102,6,Italy,Southern Europe,1
+263,306,147,485.0,NonSoloNeve,NonSoloNeve,Sports Store,11.0,Sports Store - Exclusive,Firenze,,I-50103,6,Italy,Southern Europe,1
+264,307,147,485.0,NonSoloNeve,NonSoloNeve,Sports Store,11.0,Sports Store - Exclusive,Milano,,I-20121,6,Italy,Southern Europe,1
+265,308,147,485.0,NonSoloNeve,NonSoloNeve,Sports Store,11.0,Sports Store - Exclusive,Roma,,I-00106,6,Italy,Southern Europe,1
+266,309,148,486.0,Paradiso della Tenda,Paradiso della Tenda,Outdoors Shop,2.0,Outdoors Shop,Torino,,I-10120,6,Italy,Southern Europe,1
+267,310,148,486.0,Paradiso della Tenda,Paradiso della Tenda,Outdoors Shop,2.0,Outdoors Shop,Genova,,I-16200,6,Italy,Southern Europe,1
+268,311,148,486.0,Paradiso della Tenda,Paradiso della Tenda,Outdoors Shop,2.0,Outdoors Shop,Napoli,,I-80100,6,Italy,Southern Europe,1
+269,312,148,486.0,Paradiso della Tenda,Paradiso della Tenda,Outdoors Shop,2.0,Outdoors Shop,Roma,,I-00100,6,Italy,Southern Europe,1
+270,313,149,,Bellini,Bellini,Golf Shop,,,Roma,,I-00103,6,Italy,Southern Europe,1
+271,314,149,,Bellini,Bellini,Golf Shop,,,Venezia,,I-30115,6,Italy,Southern Europe,1
+272,315,150,,Brambilla,Brambilla,Department Store,,,Milano,,I-20125,6,Italy,Southern Europe,1
+273,316,155,401.0,Beach Beds Pty Ltd.,Beach Beds Pty Ltd.,Department Store,4.0,Department Store - Exclusive,Melbourne,VIC,2088,16,Australia,Asia Pacific,1
+274,317,157,402.0,Kanga Kampers,Kanga Kampers,Outdoors Shop,2.0,Outdoors Shop,Brisbane,VIC,3000,16,Australia,Asia Pacific,1
+275,318,155,401.0,Beach Beds Pty Ltd.,Beach Beds Pty Ltd.,Department Store,4.0,Department Store - Exclusive,Cairns,VIC,3220,16,Australia,Asia Pacific,1
+276,319,155,401.0,Beach Beds Pty Ltd.,Beach Beds Pty Ltd.,Department Store,4.0,Department Store - Exclusive,Perth,NSW,2043,16,Australia,Asia Pacific,1
+277,320,156,412.0,Blue Mountains Golfing Company,Blue Mountains Golfing Company,Golf Shop,3.0,Golf Shop,Cairns,VIC,3122,16,Australia,Asia Pacific,1
+278,321,155,401.0,Beach Beds Pty Ltd.,Beach Beds Pty Ltd.,Department Store,4.0,Department Store - Exclusive,NewCastle,NSW,2154,16,Australia,Asia Pacific,1
+279,322,157,402.0,Kanga Kampers,Kanga Kampers,Outdoors Shop,2.0,Outdoors Shop,Sydney,VIC,3182,16,Australia,Asia Pacific,1
+280,323,157,402.0,Kanga Kampers,Kanga Kampers,Outdoors Shop,2.0,Outdoors Shop,Melbourne,VIC,3000,16,Australia,Asia Pacific,1
+281,324,157,402.0,Kanga Kampers,Kanga Kampers,Outdoors Shop,2.0,Outdoors Shop,NewCastle,NSW,2000,16,Australia,Asia Pacific,1
+282,325,157,402.0,Kanga Kampers,Kanga Kampers,Outdoors Shop,2.0,Outdoors Shop,Sydney,NSW,2154,16,Australia,Asia Pacific,1
+283,326,158,543.0,Naranco de Bulnes,Naranco de Bulnes,Outdoors Shop,2.0,Outdoors Shop,Barcelona,Barcelona,08002,19,Spain,Southern Europe,1
+284,327,158,543.0,Naranco de Bulnes,Naranco de Bulnes,Outdoors Shop,2.0,Outdoors Shop,Barcelona,Barcelona,08005,19,Spain,Southern Europe,1
+285,328,159,548.0,Ocio y Aventura,Ocio y Aventura,Department Store,4.0,Department Store - Exclusive,Barcelona,Barcelona,08002,19,Spain,Southern Europe,1
+286,329,158,543.0,Naranco de Bulnes,Naranco de Bulnes,Outdoors Shop,2.0,Outdoors Shop,Bilbao,Vizcaya,48005,19,Spain,Southern Europe,1
+287,330,158,543.0,Naranco de Bulnes,Naranco de Bulnes,Outdoors Shop,2.0,Outdoors Shop,Logroño,La Rioja,26000,19,Spain,Southern Europe,1
+288,331,159,548.0,Ocio y Aventura,Ocio y Aventura,Department Store,4.0,Department Store - Exclusive,Logroño,La Rioja,26004,19,Spain,Southern Europe,1
+289,332,158,543.0,Naranco de Bulnes,Naranco de Bulnes,Outdoors Shop,2.0,Outdoors Shop,Madrid,Madrid,28698,19,Spain,Southern Europe,1
+290,333,159,548.0,Ocio y Aventura,Ocio y Aventura,Department Store,4.0,Department Store - Exclusive,Madrid,Madrid,28006,19,Spain,Southern Europe,1
+291,334,159,548.0,Ocio y Aventura,Ocio y Aventura,Department Store,4.0,Department Store - Exclusive,Zaragoza,Zaragoza,50009,19,Spain,Southern Europe,1
+292,335,160,437.0,Esportes Grumari,Esportes Grumari,Department Store,5.0,Department Store,São Paulo,SP,04571-010,21,Brazil,Americas,1
+293,336,161,465.0,Preben's T°y,Preben's Tøy,Outdoors Shop,2.0,Outdoors Shop,København,,DK-1530,18,Denmark,Northern Europe,1
+294,337,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,København,,DK-1732,18,Denmark,Northern Europe,1
+295,338,161,465.0,Preben's T°y,Preben's Tøy,Outdoors Shop,2.0,Outdoors Shop,Kolding,,DK-6050,18,Denmark,Northern Europe,1
+296,339,161,465.0,Preben's T°y,Preben's Tøy,Outdoors Shop,2.0,Outdoors Shop,Roskilde,,DK-2030,18,Denmark,Northern Europe,1
+297,340,161,465.0,Preben's T°y,Preben's Tøy,Outdoors Shop,2.0,Outdoors Shop,Aarhus,,DK-8320,18,Denmark,Northern Europe,1
+298,341,161,465.0,Preben's T°y,Preben's Tøy,Outdoors Shop,2.0,Outdoors Shop,Birkerød,,DK-2750,18,Denmark,Northern Europe,1
+299,342,168,481.0,Arjan Aitta,Arjan Aitta,Outdoors Shop,2.0,Outdoors Shop,Tampere,,FIN-33900,22,Finland,Northern Europe,1
+300,343,168,481.0,Arjan Aitta,Arjan Aitta,Outdoors Shop,2.0,Outdoors Shop,Porvoo,,FIN-06100,22,Finland,Northern Europe,1
+301,344,168,481.0,Arjan Aitta,Arjan Aitta,Outdoors Shop,2.0,Outdoors Shop,Turku,,FIN-28540,22,Finland,Northern Europe,1
+302,345,168,481.0,Arjan Aitta,Arjan Aitta,Outdoors Shop,2.0,Outdoors Shop,Helsinki,,FIN-00520,22,Finland,Northern Europe,1
+303,346,168,481.0,Arjan Aitta,Arjan Aitta,Outdoors Shop,2.0,Outdoors Shop,Vantaa,,FIN-01710,22,Finland,Northern Europe,1
+304,347,170,,,Hansung Golf,Golf Shop,,,Pusan,,608-070,13,,Asia Pacific,1
+305,348,172,575.0,,"Chen Yu Enterprise Co.,",Department Store,5.0,Department Store,Seoul,,135-280,13,,Asia Pacific,1
+306,349,170,,,Hansung Golf,Golf Shop,,,Taegu,,701-280,13,,Asia Pacific,1
+307,350,170,,,Hansung Golf,Golf Shop,,,Seoul,,137-070,13,,Asia Pacific,1
+308,351,170,,,Hansung Golf,Golf Shop,,,Taejeon,,301-030,13,,Asia Pacific,1
+309,352,171,499.0,,Taeho Sports,Sports Store,12.0,Sports Store,Pusan,,613-010,13,,Asia Pacific,1
+310,353,171,499.0,,Taeho Sports,Sports Store,12.0,Sports Store,Seoul,,135-090,13,,Asia Pacific,1
+311,354,171,499.0,,Taeho Sports,Sports Store,12.0,Sports Store,Seoul,,137-130,13,,Asia Pacific,1
+312,355,171,499.0,,Taeho Sports,Sports Store,12.0,Sports Store,Incheon,,401-200,13,,Asia Pacific,1
+313,356,171,499.0,,Taeho Sports,Sports Store,12.0,Sports Store,Kwangju,,501-010,13,,Asia Pacific,1
+314,357,174,573.0,,Hai Wan Shin Sport Equipment Co.,Golf Shop,3.0,Golf Shop,Chungho City,Taipei,235,12,,Asia Pacific,1
+315,358,172,575.0,,"Chen Yu Enterprise Co.,",Department Store,5.0,Department Store,Tucheng City,Taipei,236,12,,Asia Pacific,1
+316,359,174,573.0,,Hai Wan Shin Sport Equipment Co.,Golf Shop,3.0,Golf Shop,Banchiao City,Taipei,220,12,,Asia Pacific,1
+317,360,172,575.0,,"Chen Yu Enterprise Co.,",Department Store,5.0,Department Store,Shinchuang City,Taipei,242,12,,Asia Pacific,1
+318,361,174,573.0,,Hai Wan Shin Sport Equipment Co.,Golf Shop,3.0,Golf Shop,Hsinchu,Hsinchu,300,12,,Asia Pacific,1
+319,362,173,580.0,,Fu Chin Sport Equipment Co.,Direct Marketing,7.0,Direct Marketing,Wugu Shiang,Taipei,248,12,,Asia Pacific,1
+320,363,172,575.0,,"Chen Yu Enterprise Co.,",Department Store,5.0,Department Store,Sanchung City,Taipei,241,12,,Asia Pacific,1
+321,364,174,573.0,,Hai Wan Shin Sport Equipment Co.,Golf Shop,3.0,Golf Shop,Taoyuan City,Taoyuan,330,12,,Asia Pacific,1
+322,365,172,575.0,,"Chen Yu Enterprise Co.,",Department Store,5.0,Department Store,Banchiao City,Taipei,220,12,,Asia Pacific,1
+323,366,174,573.0,,Hai Wan Shin Sport Equipment Co.,Golf Shop,3.0,Golf Shop,Shulin City,Taipei,238,12,,Asia Pacific,1
+324,376,175,454.0,,"Hangzhou Superman Sports Goods Co., LTD.",Golf Shop,3.0,Golf Shop,Beijing,,100038,14,,Asia Pacific,1
+325,377,177,455.0,,"Lan King Sports Co., LTD.",Outdoors Shop,1.0,Outdoors Shop - Exclusive,Beijing,,100844,14,,Asia Pacific,1
+326,378,175,454.0,,"Hangzhou Superman Sports Goods Co., LTD.",Golf Shop,3.0,Golf Shop,Chengdu,Sichuan,610016,14,,Asia Pacific,1
+327,379,177,455.0,,"Lan King Sports Co., LTD.",Outdoors Shop,1.0,Outdoors Shop - Exclusive,Guangzhou,Guangdong,510098,14,,Asia Pacific,1
+328,380,175,454.0,,"Hangzhou Superman Sports Goods Co., LTD.",Golf Shop,3.0,Golf Shop,Guangzhou,Guangdong,510095,14,,Asia Pacific,1
+329,381,176,456.0,,"China Multi-channel Sports Co., LTD.",Direct Marketing,7.0,Direct Marketing,Hangzhou,Zhejiang,310012,14,,Asia Pacific,1
+330,382,175,454.0,,"Hangzhou Superman Sports Goods Co., LTD.",Golf Shop,3.0,Golf Shop,Shanghai,,200333,14,,Asia Pacific,1
+331,383,177,455.0,,"Lan King Sports Co., LTD.",Outdoors Shop,1.0,Outdoors Shop - Exclusive,Shanghai,,200001,14,,Asia Pacific,1
+332,384,177,455.0,,"Lan King Sports Co., LTD.",Outdoors Shop,1.0,Outdoors Shop - Exclusive,Chaiwan,Hong Kong,,14,,Asia Pacific,1
+333,385,177,455.0,,"Lan King Sports Co., LTD.",Outdoors Shop,1.0,Outdoors Shop - Exclusive,Zhengzhou,Henan,450052,14,,Asia Pacific,1
+334,386,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,London,,NW9 8AA,9,United Kingdom,Central Europe,1
+335,387,182,586.0,Leisure Land,Leisure Land,Department Store,5.0,Department Store,Birmingham,West Midlands,B20 3BA,9,United Kingdom,Central Europe,1
+336,388,180,587.0,Hurst Ironmongers,Hurst Ironmongers,Golf Shop,3.0,Golf Shop,Bristol,Avon,BS9 2JR,9,United Kingdom,Central Europe,1
+337,389,180,587.0,Hurst Ironmongers,Hurst Ironmongers,Golf Shop,3.0,Golf Shop,London,,NW1 1LJ,9,United Kingdom,Central Europe,1
+338,390,183,589.0,Outdoor Experience,Outdoor Experience,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Reading,Berkshire,RG5 3HA,9,United Kingdom,Central Europe,1
+339,391,183,589.0,Outdoor Experience,Outdoor Experience,Outdoors Shop,1.0,Outdoors Shop - Exclusive,London,,SE6 4NR,9,United Kingdom,Central Europe,1
+340,392,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,Milton Keynes,Buckinghamshire,MK17 9EA,9,United Kingdom,Central Europe,1
+341,393,178,,Beck's Sports Store,Beck's Sports Store,Sports Store,,,Southampton,Hampshire,SO30 0PZ,9,United Kingdom,Central Europe,1
+342,394,179,,Browns Opticals,Browns Opticals,Eyewear Store,,,Oxford,Oxfordshire,MK17 9EA,9,United Kingdom,Central Europe,1
+343,395,179,,Browns Opticals,Browns Opticals,Eyewear Store,,,London,,E13 8DB,9,United Kingdom,Central Europe,1
+344,396,183,589.0,Outdoor Experience,Outdoor Experience,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Brighton,Sussex,BN2 4EL,9,United Kingdom,Central Europe,1
+345,397,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,London,,SW9 6SQ,9,United Kingdom,Central Europe,1
+346,398,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,Bristol,Avon,BS7 0TR,9,United Kingdom,Central Europe,1
+347,399,183,589.0,Outdoor Experience,Outdoor Experience,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Southampton,Hampshire,SO30 2EB,9,United Kingdom,Central Europe,1
+348,400,184,,Romford Tools Ltd,Romford Tools Ltd,Direct Marketing,,,Milton Keynes,Buckinghamshire,MK12 5DW,9,United Kingdom,Central Europe,1
+349,401,182,586.0,Leisure Land,Leisure Land,Department Store,5.0,Department Store,Southampton,Hampshire,SO30 2NU,9,United Kingdom,Central Europe,1
+350,402,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,London,,SE4 2NU,9,United Kingdom,Central Europe,1
+351,403,183,589.0,Outdoor Experience,Outdoor Experience,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Brighton,Sussex,BN2 4DA,9,United Kingdom,Central Europe,1
+352,404,178,,Beck's Sports Store,Beck's Sports Store,Sports Store,,,Brighton,Sussex,BN2 3AL,9,United Kingdom,Central Europe,1
+353,405,178,,Beck's Sports Store,Beck's Sports Store,Sports Store,,,London,,E10 5AQ,9,United Kingdom,Central Europe,1
+354,406,181,585.0,Jensen Mountaineering,Jensen Mountaineering,Outdoors Shop,2.0,Outdoors Shop,London,,E15 3JR,9,United Kingdom,Central Europe,1
+355,407,182,586.0,Leisure Land,Leisure Land,Department Store,5.0,Department Store,Brighton,Sussex,BN2 7FG,9,United Kingdom,Central Europe,1
+356,408,182,586.0,Leisure Land,Leisure Land,Department Store,5.0,Department Store,Nottingham,Nottinghamshire,NG2 2LB,9,United Kingdom,Central Europe,1
+357,409,178,,Beck's Sports Store,Beck's Sports Store,Sports Store,,,London,,E17 3DP,9,United Kingdom,Central Europe,1
+358,410,180,587.0,Hurst Ironmongers,Hurst Ironmongers,Golf Shop,3.0,Golf Shop,Reading,Berkshire,RG7 5NF,9,United Kingdom,Central Europe,1
+359,411,188,557.0,Windsurfing Z³richsee,Windsurfing Zürichsee,Sports Store,12.0,Sports Store,Basel,,CH-4051,8,Switzerland,Central Europe,1
+360,412,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Lausanne,,CH-1047,8,Switzerland,Central Europe,1
+361,413,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Bellinzona,,CH-6556,8,Switzerland,Central Europe,1
+362,414,185,,Alles f³r Drau▀en,Alles für Draußen,Direct Marketing,,,Kirchberg,,CH-3422,8,Switzerland,Central Europe,1
+363,415,188,557.0,Windsurfing Z³richsee,Windsurfing Zürichsee,Sports Store,12.0,Sports Store,Zürich,,CH-8057,8,Switzerland,Central Europe,1
+364,416,37,232.0,Grand choix,Grand choix,Department Store,4.0,Department Store - Exclusive,Lugano,,CH-6922,8,Switzerland,Central Europe,1
+365,417,186,561.0,Arnold's Clubs,Arnold's Clubs,Golf Shop,3.0,Golf Shop,Genève,,CH-1245,8,Switzerland,Central Europe,1
+366,418,186,561.0,Arnold's Clubs,Arnold's Clubs,Golf Shop,3.0,Golf Shop,Lausanne,,CH-1078,8,Switzerland,Central Europe,1
+367,419,186,561.0,Arnold's Clubs,Arnold's Clubs,Golf Shop,3.0,Golf Shop,Fribourg,,CH-1769,8,Switzerland,Central Europe,1
+368,420,186,561.0,Arnold's Clubs,Arnold's Clubs,Golf Shop,3.0,Golf Shop,Genève,,CH-1244,8,Switzerland,Central Europe,1
+369,421,188,557.0,Windsurfing Z³richsee,Windsurfing Zürichsee,Sports Store,12.0,Sports Store,Zürich,,CH-8057,8,Switzerland,Central Europe,1
+370,422,186,561.0,Arnold's Clubs,Arnold's Clubs,Golf Shop,3.0,Golf Shop,Zürich,,CH-8050,8,Switzerland,Central Europe,1
+371,423,188,557.0,Windsurfing Z³richsee,Windsurfing Zürichsee,Sports Store,12.0,Sports Store,St. Gallen,,CH-9006,8,Switzerland,Central Europe,1
+372,424,189,,Golf's'us,,,,,Zaventem,,B-1930,17,Belgium,,1
+373,425,189,,Golf's'us,,,,,Sint-Niklaas,,B-9100,17,Belgium,,1
+374,426,189,,Golf's'us,,,,,Leuven,,B-3000,17,Belgium,,1
+375,427,189,,Golf's'us,,,,,Antwerpen,,B-2018,17,Belgium,,1
+376,428,193,,Allo Allo,,,,,Bruxelles,,B-1083,17,Belgium,,1
+377,429,194,,Caravanserai,,,,,Arlon,,B-6700,17,Belgium,,1
+378,430,194,,Caravanserai,,,,,Arlon,,B-6700,17,Belgium,,1
+379,431,194,,Caravanserai,,,,,Liège,,B-4000,17,Belgium,,1
+380,432,194,,Caravanserai,,,,,Charleroi,,B-6000,17,Belgium,,1
+381,433,194,,Caravanserai,,,,,Liège,,B-4000,17,Belgium,,1
+382,434,211,414.0,Outdoor-Fachgeschõft M³ller,Outdoor-Fachgeschäft Müller,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Wien,,A-1210,5,Austria,Southern Europe,1
+383,435,211,414.0,Outdoor-Fachgeschõft M³ller,Outdoor-Fachgeschäft Müller,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Kottingbrunn,,A-2442,5,Austria,Southern Europe,1
+384,436,211,414.0,Outdoor-Fachgeschõft M³ller,Outdoor-Fachgeschäft Müller,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Ternitz,,A-2630,5,Austria,Southern Europe,1
+385,437,211,414.0,Outdoor-Fachgeschõft M³ller,Outdoor-Fachgeschäft Müller,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Loorsdorf,,A-3382,5,Austria,Southern Europe,1
+386,438,211,414.0,Outdoor-Fachgeschõft M³ller,Outdoor-Fachgeschäft Müller,Outdoors Shop,1.0,Outdoors Shop - Exclusive,Graz,,A-8010,5,Austria,Southern Europe,1
+387,439,209,415.0,Ausr³stungshaus Globetrotter,Ausrüstungshaus Globetrotter,Department Store,5.0,Department Store,Klosterneuburg,,A-3400,5,Austria,Southern Europe,1
+388,440,209,415.0,Ausr³stungshaus Globetrotter,Ausrüstungshaus Globetrotter,Department Store,5.0,Department Store,Linz,,A-4015,5,Austria,Southern Europe,1
+389,441,209,415.0,Ausr³stungshaus Globetrotter,Ausrüstungshaus Globetrotter,Department Store,5.0,Department Store,Innsbruck,,A-6020,5,Austria,Southern Europe,1
+390,442,209,415.0,Ausr³stungshaus Globetrotter,Ausrüstungshaus Globetrotter,Department Store,5.0,Department Store,Ischgl,,A-6561,5,Austria,Southern Europe,1
+391,443,210,,Golfer-Paradies,Golfer-Paradies,Golf Shop,,,Innsbruck,,A-6020,5,Austria,Southern Europe,1

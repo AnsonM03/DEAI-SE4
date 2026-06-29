@@ -1,0 +1,117 @@
+﻿product_key,product_bk,product_name,product_type_code,product_type,product_line_code,product_line,introduction_date,production_cost,margin
+1,-1,Unknown Product,,Unknown,,Unknown,,,
+2,53,Firefly Climbing Lamp,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,28.55,0.28
+3,54,Firefly Charger,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,35.33,0.33
+4,55,Firefly Rechargeable Battery,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,4.0,0.5
+5,56,Granite Chalk Bag,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,9.0,0.5
+6,57,Granite Ice,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,40.0,0.5
+7,58,Granite Hammer,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,57.13,0.28
+8,59,Granite Shovel,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,46.15,0.23
+9,60,Granite Grip,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,10.0,0.5
+10,61,Granite Axe,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,20.0,0.5
+11,62,Granite Extreme,9.0,Tools,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,47.06,0.4
+12,63,Mountain Man Analog,10.0,Watches,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,30.0,0.33
+13,64,Mountain Man Digital,10.0,Watches,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,20.0,0.5
+14,65,Mountain Man Deluxe,10.0,Watches,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,39.0,0.5
+15,66,Mountain Man Combination,10.0,Watches,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,45.0,0.5
+16,67,Mountain Man Extreme,10.0,Watches,3.0,Personal Accessories,26-Oct-2019 12:00:00 AM,116.19,0.51
+17,68,Polar Sun,11.0,Eyewear,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,46.15,0.23
+18,69,Polar Ice,11.0,Eyewear,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,73.33,0.33
+19,70,Polar Sports,11.0,Eyewear,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,80.0,0.33
+20,71,Polar Wave,11.0,Eyewear,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,60.0,0.33
+21,72,Polar Extreme,11.0,Eyewear,3.0,Personal Accessories,26-Oct-2019 12:00:00 AM,72.5,0.5
+22,73,Single Edge,12.0,Knives,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,8.56,0.28
+23,74,Double Edge,12.0,Knives,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,11.43,0.28
+24,75,Edge Extreme,12.0,Knives,3.0,Personal Accessories,26-Oct-2019 12:00:00 AM,80.0,0.28
+25,76,Bear Edge,12.0,Knives,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,23.53,0.4
+26,77,Bear Survival Edge,12.0,Knives,3.0,Personal Accessories,26-Oct-2019 12:00:00 AM,45.0,0.5
+27,78,Seeker 35,13.0,Binoculars,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,79.19,0.2
+28,79,Seeker 50,13.0,Binoculars,3.0,Personal Accessories,15-Feb-2014 12:00:00 AM,92.58,0.25
+29,80,Seeker Extreme,13.0,Binoculars,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,94.12,0.4
+30,81,Seeker Mini,13.0,Binoculars,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,40.0,0.5
+31,82,Glacier Basic,14.0,Navigation,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,20.0,0.33
+32,83,Glacier Deluxe,14.0,Navigation,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,56.25,0.37
+33,84,Glacier GPS,14.0,Navigation,3.0,Personal Accessories,05-Mar-2016 12:00:00 AM,78.55,0.28
+34,85,Glacier GPS Extreme,14.0,Navigation,3.0,Personal Accessories,12-Jun-2018 12:00:00 AM,176.47,0.4
+35,86,BugShield Natural,15.0,Insect Repellents,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.67
+36,87,BugShield Spray,15.0,Insect Repellents,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.67
+37,113,Course Pro Umbrella,21.0,Golf Accessories,5.0,Golf Equipment,15-Jan-2023 12:00:00 AM,6.0,0.5
+38,114,Course Pro Golf Bag,21.0,Golf Accessories,5.0,Golf Equipment,15-Dec-2022 12:00:00 AM,80.0,0.6
+39,115,Course Pro Gloves,21.0,Golf Accessories,5.0,Golf Equipment,27-Dec-2022 12:00:00 AM,5.0,0.5
+40,1,TrailChef Water Bag,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,4.0,0.33
+41,2,TrailChef Canteen,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,9.22,0.23
+42,3,TrailChef Kitchen Kit,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,15.93,0.28
+43,4,TrailChef Cup,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,5.0,0.28
+44,5,TrailChef Cook Set,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,34.97,0.3
+45,6,TrailChef Deluxe Cook Set,1.0,Cooking Gear,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,85.11,0.28
+46,7,TrailChef Single Flame,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,46.38,0.28
+47,8,TrailChef Double Flame,1.0,Cooking Gear,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,75.0,0.41
+48,9,TrailChef Kettle,1.0,Cooking Gear,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,9.0,0.25
+49,10,TrailChef Utensils,1.0,Cooking Gear,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,10.0,0.4
+50,11,Star Lite,2.0,Tents,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,250.0,0.28
+51,12,Star Dome,2.0,Tents,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,473.07,0.23
+52,13,Star Gazer 2,2.0,Tents,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,392.57,0.25
+53,14,Star Gazer 3,2.0,Tents,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,476.0,0.2
+54,15,Star Gazer 6,2.0,Tents,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,490.0,0.33
+55,16,Star Peg,2.0,Tents,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,1.0,0.5
+56,17,Hibernator Lite,3.0,Sleeping Bags,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,60.0,0.28
+57,18,Hibernator,3.0,Sleeping Bags,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,86.0,0.33
+58,19,Hibernator Extreme,3.0,Sleeping Bags,1.0,Camping Equipment,26-Oct-2019 12:00:00 AM,150.0,0.37
+59,20,Hibernator Self - Inflating Mat,3.0,Sleeping Bags,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,78.55,0.28
+60,21,Hibernator Pad,3.0,Sleeping Bags,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,29.17,0.17
+61,22,Hibernator Pillow,3.0,Sleeping Bags,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,10.0,0.33
+62,23,Hibernator Camp Cot,3.0,Sleeping Bags,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,65.33,0.33
+63,24,Canyon Mule Climber Backpack,4.0,Packs,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,62.5,0.17
+64,25,Canyon Mule Weekender Backpack,4.0,Packs,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,166.66,0.33
+65,26,Canyon Mule Journey Backpack,4.0,Packs,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,213.33,0.33
+66,27,Canyon Mule Extreme Backpack,4.0,Packs,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,238.88,0.43
+67,28,Canyon Mule Cooler,4.0,Packs,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,24.0,0.2
+68,29,Canyon Mule Carryall,4.0,Packs,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,41.18,0.4
+69,30,Firefly Lite,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,6.75,0.5
+70,31,Firefly Mapreader,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,7.5,0.5
+71,32,Firefly 2,5.0,Lanterns,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,16.67,0.33
+72,33,Firefly 4,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,18.0,0.33
+73,34,Firefly Extreme,5.0,Lanterns,1.0,Camping Equipment,26-Oct-2019 12:00:00 AM,28.12,0.37
+74,35,Firefly Multi-light,5.0,Lanterns,1.0,Camping Equipment,26-Oct-2019 12:00:00 AM,17.78,0.25
+75,36,EverGlow Single,5.0,Lanterns,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,18.05,0.4
+76,37,EverGlow Double,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,28.75,0.37
+77,38,EverGlow Kerosene,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,20.0,0.33
+78,39,EverGlow Butane,5.0,Lanterns,1.0,Camping Equipment,05-Mar-2016 12:00:00 AM,40.63,0.37
+79,40,EverGlow Lamp,5.0,Lanterns,1.0,Camping Equipment,15-Feb-2014 12:00:00 AM,17.97,0.28
+80,41,Flicker Lantern,5.0,Lanterns,1.0,Camping Equipment,10-Jan-2024 12:00:00 AM,24.62,0.23
+81,42,Husky Rope 50,6.0,Rope,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,106.66,0.33
+82,43,Husky Rope 60,6.0,Rope,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,126.66,0.33
+83,44,Husky Rope 100,6.0,Rope,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,231.11,0.33
+84,45,Husky Rope 200,6.0,Rope,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,383.32,0.33
+85,46,Granite Climbing Helmet,7.0,Safety,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,52.86,0.28
+86,47,Husky Harness,7.0,Safety,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,44.83,0.31
+87,48,Husky Harness Extreme,7.0,Safety,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,55.0,0.5
+88,49,Granite Signal Mirror,7.0,Safety,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,16.5,0.5
+89,50,Granite Carabiner,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,2.0,0.5
+90,51,Granite Belay,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,35.0,0.5
+91,52,Granite Pulley,8.0,Climbing Accessories,2.0,Mountaineering Equipment,10-Jan-2024 12:00:00 AM,19.0,0.5
+92,88,BugShield Lotion Lite,15.0,Insect Repellents,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.7
+93,89,BugShield Lotion,15.0,Insect Repellents,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.5,0.63
+94,90,BugShield Extreme,15.0,Insect Repellents,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.5,0.63
+95,91,Sun Blocker,16.0,Sunscreen,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.6
+96,92,Sun Shelter Stick,16.0,Sunscreen,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.6
+97,93,Sun Shelter 15,16.0,Sunscreen,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.6
+98,94,Sun Shelter 30,16.0,Sunscreen,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.6
+99,95,Sun Shield,16.0,Sunscreen,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,3.0,0.5
+100,96,Compact Relief Kit,17.0,First Aid,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,16.43,0.28
+101,97,Deluxe Family Relief Kit,17.0,First Aid,4.0,Outdoor Protection,05-Mar-2016 12:00:00 AM,25.0,0.28
+102,98,Calamine Relief,17.0,First Aid,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,3.0,0.5
+103,99,Aloe Relief,17.0,First Aid,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,2.0,0.6
+104,100,Insect Bite Relief,17.0,First Aid,4.0,Outdoor Protection,15-Feb-2014 12:00:00 AM,3.0,0.5
+105,101,Hailstorm Steel Irons,18.0,Irons,5.0,Golf Equipment,15-Dec-2022 12:00:00 AM,305.54,0.43
+106,102,Hailstorm Titanium Irons,18.0,Irons,5.0,Golf Equipment,10-Dec-2022 12:00:00 AM,380.95,0.51
+107,103,Lady Hailstorm Steel Irons,18.0,Irons,5.0,Golf Equipment,10-Dec-2022 12:00:00 AM,277.76,0.43
+108,104,Lady Hailstorm Titanium Irons,18.0,Irons,5.0,Golf Equipment,18-Dec-2022 12:00:00 AM,333.32,0.51
+109,105,Hailstorm Titanium Woods Set,19.0,Woods,5.0,Golf Equipment,27-Dec-2022 12:00:00 AM,555.9,0.55
+110,106,Hailstorm Steel Woods Set,19.0,Woods,5.0,Golf Equipment,05-Dec-2022 12:00:00 AM,536.09,0.43
+111,107,Lady Hailstorm Titanium Woods Set,19.0,Woods,5.0,Golf Equipment,13-Jan-2023 12:00:00 AM,509.07,0.55
+112,108,Lady Hailstorm Steel Woods Set,19.0,Woods,5.0,Golf Equipment,27-Dec-2022 12:00:00 AM,472.22,0.43
+113,109,Course Pro Putter,20.0,Putters,5.0,Golf Equipment,10-Dec-2022 12:00:00 AM,35.0,0.43
+114,110,Blue Steel Putter,20.0,Putters,5.0,Golf Equipment,10-Dec-2022 12:00:00 AM,60.0,0.5
+115,111,Blue Steel Max Putter,20.0,Putters,5.0,Golf Equipment,15-Dec-2022 12:00:00 AM,81.8,0.55
+116,112,Course Pro Golf and Tee Set,21.0,Golf Accessories,5.0,Golf Equipment,10-Jan-2023 12:00:00 AM,6.0,0.33

@@ -1,0 +1,6 @@
+﻿return_reason_key,return_reason_bk,reason_description,reason_category,valid_from,valid_to,is_current,version
+1,1,Defective product,Kwaliteit,2026-06-29,,1,1
+2,2,Incomplete product,Logistiek,2026-06-29,,1,1
+3,3,Wrong product ordered,Klantkeuze,2026-06-29,,1,1
+4,4,Wrong product shipped,Logistiek,2026-06-29,,1,1
+5,5,Unsatisfactory product,Kwaliteit,2026-06-29,,1,1
