@@ -78,6 +78,13 @@ joblib.dump(scaler, MODEL_DIR / "scaler.joblib")
 
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.25, random_state=42, stratify=y)
 
+classes, counts = np.unique(y_train, return_counts=True)
+class_weight = {
+    int(class_id): len(y_train) / (len(classes) * count)
+    for class_id, count in zip(classes, counts)
+}
+print("Class weights:", class_weight)
+
 base_experiments = [
     {"layers": [16], "epochs": 10, "lr": 0.001, "batch": 32},
     {"layers": [32], "epochs": 10, "lr": 0.001, "batch": 32},
@@ -105,23 +112,32 @@ def build_model(layers, lr):
     return model
 
 results = []
-best_acc = -1
+best_score = -1
 best_model = None
 for i, exp in enumerate(experiments, start=1):
     print(f"Experiment {i}/{len(experiments)}", exp)
     model = build_model(exp["layers"], exp["lr"])
-    history = model.fit(X_train, y_train, validation_split=0.2, epochs=exp["epochs"], batch_size=exp["batch"], verbose=0)
+    history = model.fit(
+        X_train,
+        y_train,
+        validation_split=0.2,
+        epochs=exp["epochs"],
+        batch_size=exp["batch"],
+        class_weight=class_weight,
+        verbose=0,
+    )
     y_pred = np.argmax(model.predict(X_test, verbose=0), axis=1)
     test_acc = accuracy_score(y_test, y_pred)
-    f1 = f1_score(y_test, y_pred, average="weighted")
-    row = {"experiment": i, "layers": str(exp["layers"]), "epochs": exp["epochs"], "learning_rate": exp["lr"], "batch_size": exp["batch"], "dataset_size": len(df), "train_accuracy": history.history["accuracy"][-1], "validation_accuracy": history.history["val_accuracy"][-1], "test_accuracy": test_acc, "f1_score": f1}
+    weighted_f1 = f1_score(y_test, y_pred, average="weighted")
+    macro_f1 = f1_score(y_test, y_pred, average="macro")
+    row = {"experiment": i, "layers": str(exp["layers"]), "epochs": exp["epochs"], "learning_rate": exp["lr"], "batch_size": exp["batch"], "dataset_size": len(df), "train_accuracy": history.history["accuracy"][-1], "validation_accuracy": history.history["val_accuracy"][-1], "test_accuracy": test_acc, "weighted_f1_score": weighted_f1, "macro_f1_score": macro_f1}
     results.append(row)
-    if test_acc > best_acc:
-        best_acc = test_acc; best_model = model
+    if macro_f1 > best_score:
+        best_score = macro_f1; best_model = model
 
 results_df = pd.DataFrame(results)
 results_df.to_csv(RESULT_DIR / "experiment_results.csv", index=False)
 results_df.to_excel(RESULT_DIR / "experiment_results.xlsx", index=False)
 best_model.save(MODEL_DIR / "best_model.keras")
-print("Beste test accuracy:", best_acc)
-print(results_df.sort_values("test_accuracy", ascending=False).head())
+print("Beste macro F1:", best_score)
+print(results_df.sort_values("macro_f1_score", ascending=False).head())

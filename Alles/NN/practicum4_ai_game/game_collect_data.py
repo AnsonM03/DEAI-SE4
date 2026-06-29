@@ -1,11 +1,9 @@
+import csv
 import os
 import random
 from pathlib import Path
 
-import joblib
-import numpy as np
 import pygame
-import tensorflow as tf
 
 WIDTH, HEIGHT = 500, 650
 ROAD_LEFT, ROAD_RIGHT = 70, 430
@@ -14,12 +12,23 @@ LANE_WIDTH = (ROAD_RIGHT - ROAD_LEFT) / LANES
 CAR_W, CAR_H = 46, 76
 OBSTACLE_W, OBSTACLE_H = 44, 70
 PLAYER_Y = HEIGHT - 115
-PLAYER_SPEED = 6
+PLAYER_SPEED = 7
 FPS = 60
+STILL_SAVE_EVERY = 8
+FEATURE_COLUMNS = [
+    "car_x",
+    "obstacle_x",
+    "obstacle_y",
+    "lane_delta",
+    "obstacle_speed",
+    "obstacle_type",
+]
+CSV_COLUMNS = FEATURE_COLUMNS + ["action"]
+
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-MODEL_PATH = PROJECT_ROOT / "models" / "best_model.keras"
-SCALER_PATH = PROJECT_ROOT / "models" / "scaler.joblib"
-N_FEATURES = 6
+DATA_PATH = PROJECT_ROOT / "data" / "training_data.csv"
+
+os.makedirs(DATA_PATH.parent, exist_ok=True)
 
 
 def lane_center(lane):
@@ -66,22 +75,51 @@ def nearest_obstacle(obstacles):
     return max(approaching or obstacles, key=lambda obstacle: obstacle.y)
 
 
-def features(player_x, obstacles):
+def normalized_features(player_x, obstacles):
     obstacle = nearest_obstacle(obstacles)
     player_center = player_x + CAR_W / 2
     obstacle_center = obstacle.x + obstacle.w / 2
     player_lane = lane_from_x(player_x)
     lane_delta = obstacle.lane - player_lane
-    return np.array(
-        [[
-            player_center / WIDTH,
-            obstacle_center / WIDTH,
-            obstacle.y / HEIGHT,
-            lane_delta / (LANES - 1),
-            obstacle.speed / 12,
-            obstacle.type_value,
-        ]]
-    )
+    return [
+        player_center / WIDTH,
+        obstacle_center / WIDTH,
+        obstacle.y / HEIGHT,
+        lane_delta / (LANES - 1),
+        obstacle.speed / 12,
+        obstacle.type_value,
+    ]
+
+
+def should_save_sample(action, frame_count, player_x, obstacles):
+    if action != 1:
+        return True
+
+    obstacle = nearest_obstacle(obstacles)
+    same_lane = obstacle.lane == lane_from_x(player_x)
+    obstacle_close = 0 < PLAYER_Y - obstacle.y < 260
+    return same_lane and obstacle_close or frame_count % STILL_SAVE_EVERY == 0
+
+
+def save_row(features, action):
+    if DATA_PATH.exists():
+        with open(DATA_PATH, newline="") as f:
+            first_row = next(csv.reader(f), [])
+        if first_row != CSV_COLUMNS:
+            backup_path = DATA_PATH.with_name("training_data_old_game_backup.csv")
+            counter = 1
+            while backup_path.exists():
+                backup_path = DATA_PATH.with_name(f"training_data_old_game_backup_{counter}.csv")
+                counter += 1
+            DATA_PATH.replace(backup_path)
+            print(f"Oude training_data.csv apart gezet als {backup_path}")
+
+    file_exists = DATA_PATH.exists()
+    with open(DATA_PATH, "a", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(CSV_COLUMNS)
+        writer.writerow(features + [action])
 
 
 def draw_car(screen, rect, color, windshield=(170, 220, 255)):
@@ -111,18 +149,9 @@ def draw_road(screen, score):
             pygame.draw.line(screen, (235, 235, 235), (x, y), (x, y + 24), 3)
 
 def main():
-    if not MODEL_PATH.exists():
-        raise FileNotFoundError("Geen getraind model gevonden. Verzamel data en run daarna train_model.py")
-    model = tf.keras.models.load_model(MODEL_PATH)
-    scaler = joblib.load(SCALER_PATH)
-    if getattr(scaler, "n_features_in_", N_FEATURES) != N_FEATURES:
-        raise ValueError(
-            "Het gevonden model/scaler hoort nog bij het oude rock-spel. "
-            "Verzamel opnieuw data met game_collect_data.py en run daarna train_model.py."
-        )
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("AI Auto Game - AI mode")
+    pygame.display.set_caption("AI Auto Game - data verzamelen")
     clock = pygame.time.Clock()
     font = pygame.font.SysFont(None, 28)
     player_x = lane_center(1) - CAR_W / 2
@@ -132,30 +161,35 @@ def main():
         RoadObstacle(-590),
     ]
     score = 0
+    frame_count = 0
     running = True
     while running:
         clock.tick(FPS)
+        frame_count += 1
+        action = 1
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
         keys = pygame.key.get_pressed()
         if keys[pygame.K_ESCAPE]:
             running = False
-        X = scaler.transform(features(player_x, obstacles))
-        action = int(np.argmax(model.predict(X, verbose=0)[0]))
-        if action == 0:
+        if keys[pygame.K_LEFT]:
             player_x -= PLAYER_SPEED
-        elif action == 2:
+            action = 0
+        elif keys[pygame.K_RIGHT]:
             player_x += PLAYER_SPEED
+            action = 2
         player_x = max(ROAD_LEFT + 6, min(ROAD_RIGHT - CAR_W - 6, player_x))
 
         for obstacle in obstacles:
             if obstacle.update(score):
                 score += 1
 
+        if should_save_sample(action, frame_count, player_x, obstacles):
+            save_row(normalized_features(player_x, obstacles), action)
         player_rect = pygame.Rect(int(player_x), PLAYER_Y, CAR_W, CAR_H)
         if any(player_rect.colliderect(obstacle.rect) for obstacle in obstacles):
-            print("AI game over! Score:", score)
+            print("Game over! Score:", score)
             running = False
 
         draw_road(screen, score)
@@ -164,9 +198,8 @@ def main():
                 draw_car(screen, obstacle.rect, (190, 55, 65), windshield=(230, 230, 245))
             else:
                 draw_cone(screen, obstacle.rect)
-        draw_car(screen, player_rect, (45, 210, 135))
-        label = ["links", "stil", "rechts"][action]
-        text = font.render(f"AI mode | Score: {score} | Actie: {label}", True, (255, 255, 255))
+        draw_car(screen, player_rect, (45, 145, 245))
+        text = font.render(f"Human mode | Score: {score} | data opgeslagen", True, (255, 255, 255))
         screen.blit(text, (10, 10))
         pygame.display.flip()
     pygame.quit()
